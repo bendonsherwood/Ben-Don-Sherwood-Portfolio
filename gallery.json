@@ -1,2239 +1,1387 @@
 {
   "version": "1.0",
-  "artist": "Ben Don Sherwood",
   "updated": "2025-10-16",
-  "description": "Flat list of works with optional grouping by inferred 'collection'. Adjust base_path to match your site.",
-  "base_path": "./images/",
-  "thumbnail_path": "./images/thumbs/",
-  "file_extensions": [
-    ".png",
-    ".jpg",
-    ".jpeg",
-    ".webp",
-    ".gif"
-  ],
-  "sort": {
-    "by": "filename",
-    "order": "asc"
-  },
-  "display": {
-    "columns_desktop": 6,
-    "columns_tablet": 4,
-    "columns_mobile": 2,
-    "frame_style": "matted",
-    "show_captions": true
-  },
-  "images": [
+  "items": [
     {
-      "filename": "7 Yellow Box’s.PNG",
+      "src": "./images/7 Yellow Box’s.PNG",
       "title": "7 Yellow Box’s",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "7 Yellow Box’s",
       "collection": "other",
       "tags": [],
-      "alt": "7 Yellow Box’s",
       "slug": "7-yellow-boxs"
     },
     {
-      "filename": "Abstract Painting 95.PNG",
+      "src": "./images/Abstract Painting 95.PNG",
       "title": "Abstract Painting 95",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Abstract Painting 95",
       "collection": "abstracts",
       "tags": [
         "abstracts"
       ],
-      "alt": "Abstract Painting 95",
       "slug": "abstract-painting-95"
     },
     {
-      "filename": "Abstract Painting 96.PNG",
+      "src": "./images/Abstract Painting 96.PNG",
       "title": "Abstract Painting 96",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Abstract Painting 96",
       "collection": "abstracts",
       "tags": [
         "abstracts"
       ],
-      "alt": "Abstract Painting 96",
       "slug": "abstract-painting-96"
     },
     {
-      "filename": "Abstract Painting 99.PNG",
+      "src": "./images/Abstract Painting 99.PNG",
       "title": "Abstract Painting 99",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Abstract Painting 99",
       "collection": "abstracts",
       "tags": [
         "abstracts"
       ],
-      "alt": "Abstract Painting 99",
       "slug": "abstract-painting-99"
     },
     {
-      "filename": "Abstract painting 98.PNG",
+      "src": "./images/Abstract painting 98.PNG",
       "title": "Abstract painting 98",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Abstract painting 98",
       "collection": "abstracts",
       "tags": [
         "abstracts"
       ],
-      "alt": "Abstract painting 98",
       "slug": "abstract-painting-98"
     },
     {
-      "filename": "Actor Devil.PNG",
+      "src": "./images/Actor Devil.PNG",
       "title": "Actor Devil",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Actor Devil",
       "collection": "other",
       "tags": [],
-      "alt": "Actor Devil",
       "slug": "actor-devil"
     },
     {
-      "filename": "Actors.PNG",
+      "src": "./images/Actors.PNG",
       "title": "Actors",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Actors",
       "collection": "other",
       "tags": [],
-      "alt": "Actors",
       "slug": "actors"
     },
     {
-      "filename": "Antarctic Moon Hub Abstract.PNG",
+      "src": "./images/Antarctic Moon Hub Abstract.PNG",
       "title": "Antarctic Moon Hub Abstract",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Antarctic Moon Hub Abstract",
       "collection": "abstracts",
       "tags": [
         "abstracts"
       ],
-      "alt": "Antarctic Moon Hub Abstract",
       "slug": "antarctic-moon-hub-abstract"
     },
     {
-      "filename": "Art Gallery Cartoons.PNG",
+      "src": "./images/Art Gallery Cartoons.PNG",
       "title": "Art Gallery Cartoons",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Art Gallery Cartoons",
       "collection": "cartoons",
       "tags": [
         "cartoons"
       ],
-      "alt": "Art Gallery Cartoons",
       "slug": "art-gallery-cartoons"
     },
     {
-      "filename": "Aussie Barfly.PNG",
+      "src": "./images/Aussie Barfly.PNG",
       "title": "Aussie Barfly",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Aussie Barfly",
       "collection": "other",
       "tags": [],
-      "alt": "Aussie Barfly",
       "slug": "aussie-barfly"
     },
     {
-      "filename": "Barfly 2.PNG",
+      "src": "./images/Barfly 2.PNG",
       "title": "Barfly 2",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Barfly 2",
       "collection": "other",
       "tags": [],
-      "alt": "Barfly 2",
       "slug": "barfly-2"
     },
     {
-      "filename": "Batemans Bay Seagull.PNG",
+      "src": "./images/Batemans Bay Seagull.PNG",
       "title": "Batemans Bay Seagull",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Batemans Bay Seagull",
       "collection": "landscapes",
       "tags": [
         "landscapes"
       ],
-      "alt": "Batemans Bay Seagull",
       "slug": "batemans-bay-seagull"
     },
     {
-      "filename": "Bateman’s Bay (Sardine Pelican).PNG",
+      "src": "./images/Bateman’s Bay (Sardine Pelican).PNG",
       "title": "Bateman’s Bay (Sardine Pelican)",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Bateman’s Bay (Sardine Pelican)",
       "collection": "landscapes",
       "tags": [
         "landscapes"
       ],
-      "alt": "Bateman’s Bay (Sardine Pelican)",
       "slug": "batemans-bay-sardine-pelican"
     },
     {
-      "filename": "Beach Bather.PNG",
+      "src": "./images/Beach Bather.PNG",
       "title": "Beach Bather",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Beach Bather",
       "collection": "landscapes",
       "tags": [
         "landscapes"
       ],
-      "alt": "Beach Bather",
       "slug": "beach-bather"
     },
     {
-      "filename": "Beef Jerky.PNG",
+      "src": "./images/Beef Jerky.PNG",
       "title": "Beef Jerky",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Beef Jerky",
       "collection": "other",
       "tags": [],
-      "alt": "Beef Jerky",
       "slug": "beef-jerky"
     },
     {
-      "filename": "Ben Don Sherwood painting (Profile Artist).PNG",
+      "src": "./images/Ben Don Sherwood painting (Profile Artist).PNG",
       "title": "Ben Don Sherwood painting (Profile Artist)",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Ben Don Sherwood painting (Profile Artist)",
       "collection": "other",
       "tags": [],
-      "alt": "Ben Don Sherwood painting (Profile Artist)",
       "slug": "ben-don-sherwood-painting-profile-artist"
     },
     {
-      "filename": "Ben on Guitar.PNG",
+      "src": "./images/Ben on Guitar.PNG",
       "title": "Ben on Guitar",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Ben on Guitar",
       "collection": "other",
       "tags": [],
-      "alt": "Ben on Guitar",
       "slug": "ben-on-guitar"
     },
     {
-      "filename": "Bizarre Facade.PNG",
+      "src": "./images/Bizarre Facade.PNG",
       "title": "Bizarre Facade",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Bizarre Facade",
       "collection": "other",
       "tags": [],
-      "alt": "Bizarre Facade",
       "slug": "bizarre-facade"
     },
     {
-      "filename": "Blind Walk.PNG",
+      "src": "./images/Blind Walk.PNG",
       "title": "Blind Walk",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Blind Walk",
       "collection": "other",
       "tags": [],
-      "alt": "Blind Walk",
       "slug": "blind-walk"
     },
     {
-      "filename": "Bouncing Elephant.PNG",
+      "src": "./images/Bouncing Elephant.PNG",
       "title": "Bouncing Elephant",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Bouncing Elephant",
       "collection": "animals",
       "tags": [
         "animals"
       ],
-      "alt": "Bouncing Elephant",
       "slug": "bouncing-elephant"
     },
     {
-      "filename": "Broken Down in the Desert.PNG",
+      "src": "./images/Broken Down in the Desert.PNG",
       "title": "Broken Down in the Desert",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Broken Down in the Desert",
       "collection": "landscapes",
       "tags": [
         "landscapes"
       ],
-      "alt": "Broken Down in the Desert",
       "slug": "broken-down-in-the-desert"
     },
     {
-      "filename": "Cafe Haight Ashbury.PNG",
+      "src": "./images/Cafe Haight Ashbury.PNG",
       "title": "Cafe Haight Ashbury",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Cafe Haight Ashbury",
       "collection": "other",
       "tags": [],
-      "alt": "Cafe Haight Ashbury",
       "slug": "cafe-haight-ashbury"
     },
     {
-      "filename": "Camel Traveller.PNG",
+      "src": "./images/Camel Traveller.PNG",
       "title": "Camel Traveller",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Camel Traveller",
       "collection": "animals",
       "tags": [
         "animals"
       ],
-      "alt": "Camel Traveller",
       "slug": "camel-traveller"
     },
     {
-      "filename": "Carnival Slaughterhouse.PNG",
+      "src": "./images/Carnival Slaughterhouse.PNG",
       "title": "Carnival Slaughterhouse",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Carnival Slaughterhouse",
       "collection": "other",
       "tags": [],
-      "alt": "Carnival Slaughterhouse",
       "slug": "carnival-slaughterhouse"
     },
     {
-      "filename": "Charcoal Moses(1).PNG",
+      "src": "./images/Charcoal Moses(1).PNG",
       "title": "Charcoal Moses(1)",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Charcoal Moses(1)",
       "collection": "sketches",
       "tags": [
         "sketches"
       ],
-      "alt": "Charcoal Moses(1)",
       "slug": "charcoal-moses-1"
     },
     {
-      "filename": "Chinese Delivery Rabbit in Greece.PNG",
+      "src": "./images/Chinese Delivery Rabbit in Greece.PNG",
       "title": "Chinese Delivery Rabbit in Greece",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Chinese Delivery Rabbit in Greece",
       "collection": "animals",
       "tags": [
         "animals"
       ],
-      "alt": "Chinese Delivery Rabbit in Greece",
       "slug": "chinese-delivery-rabbit-in-greece"
     },
     {
-      "filename": "Cigarette Cafe.PNG",
+      "src": "./images/Cigarette Cafe.PNG",
       "title": "Cigarette Cafe",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Cigarette Cafe",
       "collection": "other",
       "tags": [],
-      "alt": "Cigarette Cafe",
       "slug": "cigarette-cafe"
     },
     {
-      "filename": "Civil War Soldier.PNG",
+      "src": "./images/Civil War Soldier.PNG",
       "title": "Civil War Soldier",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Civil War Soldier",
       "collection": "historical",
       "tags": [
         "historical"
       ],
-      "alt": "Civil War Soldier",
       "slug": "civil-war-soldier"
     },
     {
-      "filename": "Close up of Sy’s Bass Abstract Painting.PNG",
+      "src": "./images/Close up of Sy’s Bass Abstract Painting.PNG",
       "title": "Close up of Sy’s Bass Abstract Painting",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Close up of Sy’s Bass Abstract Painting",
       "collection": "abstracts",
       "tags": [
         "abstracts"
       ],
-      "alt": "Close up of Sy’s Bass Abstract Painting",
       "slug": "close-up-of-sys-bass-abstract-painting"
     },
     {
-      "filename": "Close up of ‘Deep In Eden’ Abstract.PNG",
+      "src": "./images/Close up of ‘Deep In Eden’ Abstract.PNG",
       "title": "Close up of ‘Deep In Eden’ Abstract",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Close up of ‘Deep In Eden’ Abstract",
       "collection": "abstracts",
       "tags": [
         "abstracts"
       ],
-      "alt": "Close up of ‘Deep In Eden’ Abstract",
       "slug": "close-up-of-deep-in-eden-abstract"
     },
     {
-      "filename": "Close up of ‘Deep In Eden’ Figurative Abstract.PNG",
+      "src": "./images/Close up of ‘Deep In Eden’ Figurative Abstract.PNG",
       "title": "Close up of ‘Deep In Eden’ Figurative Abstract",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Close up of ‘Deep In Eden’ Figurative Abstract",
       "collection": "abstracts",
       "tags": [
         "abstracts"
       ],
-      "alt": "Close up of ‘Deep In Eden’ Figurative Abstract",
       "slug": "close-up-of-deep-in-eden-figurative-abstract"
     },
     {
-      "filename": "Close up of ‘The Winter Hunt’.PNG",
+      "src": "./images/Close up of ‘The Winter Hunt’.PNG",
       "title": "Close up of ‘The Winter Hunt’",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Close up of ‘The Winter Hunt’",
       "collection": "other",
       "tags": [],
-      "alt": "Close up of ‘The Winter Hunt’",
       "slug": "close-up-of-the-winter-hunt"
     },
     {
-      "filename": "Cosmos Abstract that was later called ‘9 Sharks’.PNG",
+      "src": "./images/Cosmos Abstract that was later called ‘9 Sharks’.PNG",
       "title": "Cosmos Abstract that was later called ‘9 Sharks’",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Cosmos Abstract that was later called ‘9 Sharks’",
       "collection": "abstracts",
       "tags": [
         "abstracts"
       ],
-      "alt": "Cosmos Abstract that was later called ‘9 Sharks’",
       "slug": "cosmos-abstract-that-was-later-called-9-sharks"
     },
     {
-      "filename": "Counterfeit Illusion.PNG",
+      "src": "./images/Counterfeit Illusion.PNG",
       "title": "Counterfeit Illusion",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Counterfeit Illusion",
       "collection": "other",
       "tags": [],
-      "alt": "Counterfeit Illusion",
       "slug": "counterfeit-illusion"
     },
     {
-      "filename": "Crab.PNG",
+      "src": "./images/Crab.PNG",
       "title": "Crab",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Crab",
       "collection": "other",
       "tags": [],
-      "alt": "Crab",
       "slug": "crab"
     },
     {
-      "filename": "Crashing Hope.PNG",
+      "src": "./images/Crashing Hope.PNG",
       "title": "Crashing Hope",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Crashing Hope",
       "collection": "other",
       "tags": [],
-      "alt": "Crashing Hope",
       "slug": "crashing-hope"
     },
     {
-      "filename": "Croc Pellican.PNG",
+      "src": "./images/Croc Pellican.PNG",
       "title": "Croc Pellican",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Croc Pellican",
       "collection": "animals",
       "tags": [
         "animals"
       ],
-      "alt": "Croc Pellican",
       "slug": "croc-pellican"
     },
     {
-      "filename": "Crocodile Baby Photos.PNG",
+      "src": "./images/Crocodile Baby Photos.PNG",
       "title": "Crocodile Baby Photos",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Crocodile Baby Photos",
       "collection": "animals",
       "tags": [
         "animals"
       ],
-      "alt": "Crocodile Baby Photos",
       "slug": "crocodile-baby-photos"
     },
     {
-      "filename": "Daytime Tv Swill Park.PNG",
+      "src": "./images/Daytime Tv Swill Park.PNG",
       "title": "Daytime Tv Swill Park",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Daytime Tv Swill Park",
       "collection": "landscapes",
       "tags": [
         "landscapes"
       ],
-      "alt": "Daytime Tv Swill Park",
       "slug": "daytime-tv-swill-park"
     },
     {
-      "filename": "Degas Dancers Tribute.PNG",
+      "src": "./images/Degas Dancers Tribute.PNG",
       "title": "Degas Dancers Tribute",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Degas Dancers Tribute",
       "collection": "tributes_pop",
       "tags": [
         "tributes_pop"
       ],
-      "alt": "Degas Dancers Tribute",
       "slug": "degas-dancers-tribute"
     },
     {
-      "filename": "Disney Tribute.PNG",
+      "src": "./images/Disney Tribute.PNG",
       "title": "Disney Tribute",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Disney Tribute",
       "collection": "tributes_pop",
       "tags": [
         "tributes_pop"
       ],
-      "alt": "Disney Tribute",
       "slug": "disney-tribute"
     },
     {
-      "filename": "Disneys 9 Old Men.PNG",
+      "src": "./images/Disneys 9 Old Men.PNG",
       "title": "Disneys 9 Old Men",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Disneys 9 Old Men",
       "collection": "tributes_pop",
       "tags": [
         "tributes_pop"
       ],
-      "alt": "Disneys 9 Old Men",
       "slug": "disneys-9-old-men"
     },
     {
-      "filename": "Dog with Bird.PNG",
+      "src": "./images/Dog with Bird.PNG",
       "title": "Dog with Bird",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Dog with Bird",
       "collection": "animals",
       "tags": [
         "animals"
       ],
-      "alt": "Dog with Bird",
       "slug": "dog-with-bird"
     },
     {
-      "filename": "Dragon Guard.PNG",
+      "src": "./images/Dragon Guard.PNG",
       "title": "Dragon Guard",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Dragon Guard",
       "collection": "other",
       "tags": [],
-      "alt": "Dragon Guard",
       "slug": "dragon-guard"
     },
     {
-      "filename": "Dreams.PNG",
+      "src": "./images/Dreams.PNG",
       "title": "Dreams",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Dreams",
       "collection": "surrealism",
       "tags": [
         "surrealism"
       ],
-      "alt": "Dreams",
       "slug": "dreams"
     },
     {
-      "filename": "Fast Porky.PNG",
+      "src": "./images/Fast Porky.PNG",
       "title": "Fast Porky",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Fast Porky",
       "collection": "other",
       "tags": [],
-      "alt": "Fast Porky",
       "slug": "fast-porky"
     },
     {
-      "filename": "Figurative Abstract1.PNG",
+      "src": "./images/Figurative Abstract1.PNG",
       "title": "Figurative Abstract1",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Figurative Abstract1",
       "collection": "abstracts",
       "tags": [
         "abstracts"
       ],
-      "alt": "Figurative Abstract1",
       "slug": "figurative-abstract1"
     },
     {
-      "filename": "Fly Bomber.PNG",
+      "src": "./images/Fly Bomber.PNG",
       "title": "Fly Bomber",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Fly Bomber",
       "collection": "other",
       "tags": [],
-      "alt": "Fly Bomber",
       "slug": "fly-bomber"
     },
     {
-      "filename": "Framed Picasso Tribute.PNG",
+      "src": "./images/Framed Picasso Tribute.PNG",
       "title": "Framed Picasso Tribute",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Framed Picasso Tribute",
       "collection": "tributes_pop",
       "tags": [
         "tributes_pop"
       ],
-      "alt": "Framed Picasso Tribute",
       "slug": "framed-picasso-tribute"
     },
     {
-      "filename": "Frank Furt.PNG",
+      "src": "./images/Frank Furt.PNG",
       "title": "Frank Furt",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Frank Furt",
       "collection": "other",
       "tags": [],
-      "alt": "Frank Furt",
       "slug": "frank-furt"
     },
     {
-      "filename": "Freddie.PNG",
+      "src": "./images/Freddie.PNG",
       "title": "Freddie",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Freddie",
       "collection": "other",
       "tags": [],
-      "alt": "Freddie",
       "slug": "freddie"
     },
     {
-      "filename": "General.PNG",
+      "src": "./images/General.PNG",
       "title": "General",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "General",
       "collection": "other",
       "tags": [],
-      "alt": "General",
       "slug": "general"
     },
     {
-      "filename": "Ghostly Staircase.PNG",
+      "src": "./images/Ghostly Staircase.PNG",
       "title": "Ghostly Staircase",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Ghostly Staircase",
       "collection": "other",
       "tags": [],
-      "alt": "Ghostly Staircase",
       "slug": "ghostly-staircase"
     },
     {
-      "filename": "Ghosts in Heaven.PNG",
+      "src": "./images/Ghosts in Heaven.PNG",
       "title": "Ghosts in Heaven",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Ghosts in Heaven",
       "collection": "other",
       "tags": [],
-      "alt": "Ghosts in Heaven",
       "slug": "ghosts-in-heaven"
     },
     {
-      "filename": "Golfer.PNG",
+      "src": "./images/Golfer.PNG",
       "title": "Golfer",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Golfer",
       "collection": "other",
       "tags": [],
-      "alt": "Golfer",
       "slug": "golfer"
     },
     {
-      "filename": "Hallucinogen.PNG",
+      "src": "./images/Hallucinogen.PNG",
       "title": "Hallucinogen",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Hallucinogen",
       "collection": "surrealism",
       "tags": [
         "surrealism"
       ],
-      "alt": "Hallucinogen",
       "slug": "hallucinogen"
     },
     {
-      "filename": "Hanging one of my Abstracts in the gallery.PNG",
+      "src": "./images/Hanging one of my Abstracts in the gallery.PNG",
       "title": "Hanging one of my Abstracts in the gallery",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Hanging one of my Abstracts in the gallery",
       "collection": "abstracts",
       "tags": [
         "abstracts"
       ],
-      "alt": "Hanging one of my Abstracts in the gallery",
       "slug": "hanging-one-of-my-abstracts-in-the-gallery"
     },
     {
-      "filename": "Horse.PNG",
+      "src": "./images/Horse.PNG",
       "title": "Horse",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Horse",
       "collection": "animals",
       "tags": [
         "animals"
       ],
-      "alt": "Horse",
       "slug": "horse"
     },
     {
-      "filename": "Hounds Balls.PNG",
+      "src": "./images/Hounds Balls.PNG",
       "title": "Hounds Balls",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Hounds Balls",
       "collection": "other",
       "tags": [],
-      "alt": "Hounds Balls",
       "slug": "hounds-balls"
     },
     {
-      "filename": "Indian Sitar Player.PNG",
+      "src": "./images/Indian Sitar Player.PNG",
       "title": "Indian Sitar Player",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Indian Sitar Player",
       "collection": "other",
       "tags": [],
-      "alt": "Indian Sitar Player",
       "slug": "indian-sitar-player"
     },
     {
-      "filename": "Jack The Ripper Modern Surgeon.PNG",
+      "src": "./images/Jack The Ripper Modern Surgeon.PNG",
       "title": "Jack The Ripper Modern Surgeon",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Jack The Ripper Modern Surgeon",
       "collection": "historical",
       "tags": [
         "historical"
       ],
-      "alt": "Jack The Ripper Modern Surgeon",
       "slug": "jack-the-ripper-modern-surgeon"
     },
     {
-      "filename": "Jackson Trip.PNG",
+      "src": "./images/Jackson Trip.PNG",
       "title": "Jackson Trip",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Jackson Trip",
       "collection": "other",
       "tags": [],
-      "alt": "Jackson Trip",
       "slug": "jackson-trip"
     },
     {
-      "filename": "James Bond Casino Game Play 2.PNG",
+      "src": "./images/James Bond Casino Game Play 2.PNG",
       "title": "James Bond Casino Game Play 2",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "James Bond Casino Game Play 2",
       "collection": "tributes_pop",
       "tags": [
         "tributes_pop"
       ],
-      "alt": "James Bond Casino Game Play 2",
       "slug": "james-bond-casino-game-play-2"
     },
     {
-      "filename": "James Bond Casino Game Play.PNG",
+      "src": "./images/James Bond Casino Game Play.PNG",
       "title": "James Bond Casino Game Play",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "James Bond Casino Game Play",
       "collection": "tributes_pop",
       "tags": [
         "tributes_pop"
       ],
-      "alt": "James Bond Casino Game Play",
       "slug": "james-bond-casino-game-play"
     },
     {
-      "filename": "Jazz Man Warp.PNG",
+      "src": "./images/Jazz Man Warp.PNG",
       "title": "Jazz Man Warp",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Jazz Man Warp",
       "collection": "other",
       "tags": [],
-      "alt": "Jazz Man Warp",
       "slug": "jazz-man-warp"
     },
     {
-      "filename": "John Lennon Milking a cow with a Sheltie.PNG",
+      "src": "./images/John Lennon Milking a cow with a Sheltie.PNG",
       "title": "John Lennon Milking a cow with a Sheltie",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "John Lennon Milking a cow with a Sheltie",
       "collection": "other",
       "tags": [],
-      "alt": "John Lennon Milking a cow with a Sheltie",
       "slug": "john-lennon-milking-a-cow-with-a-sheltie"
     },
     {
-      "filename": "Junk Balloon Windstorm.PNG",
+      "src": "./images/Junk Balloon Windstorm.PNG",
       "title": "Junk Balloon Windstorm",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Junk Balloon Windstorm",
       "collection": "other",
       "tags": [],
-      "alt": "Junk Balloon Windstorm",
       "slug": "junk-balloon-windstorm"
     },
     {
-      "filename": "Landscape of Bhutan.PNG",
+      "src": "./images/Landscape of Bhutan.PNG",
       "title": "Landscape of Bhutan",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Landscape of Bhutan",
       "collection": "landscapes",
       "tags": [
         "landscapes"
       ],
-      "alt": "Landscape of Bhutan",
       "slug": "landscape-of-bhutan"
     },
     {
-      "filename": "Lizard & Platypus.PNG",
+      "src": "./images/Lizard & Platypus.PNG",
       "title": "Lizard & Platypus",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Lizard & Platypus",
       "collection": "animals",
       "tags": [
         "animals"
       ],
-      "alt": "Lizard & Platypus",
       "slug": "lizard-platypus"
     },
     {
-      "filename": "Lochness Monster Sightings.PNG",
+      "src": "./images/Lochness Monster Sightings.PNG",
       "title": "Lochness Monster Sightings",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Lochness Monster Sightings",
       "collection": "other",
       "tags": [],
-      "alt": "Lochness Monster Sightings",
       "slug": "lochness-monster-sightings"
     },
     {
-      "filename": "Matt Sorum Portrait.PNG",
+      "src": "./images/Matt Sorum Portrait.PNG",
       "title": "Matt Sorum Portrait",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Matt Sorum Portrait",
       "collection": "portraits",
       "tags": [
         "portraits"
       ],
-      "alt": "Matt Sorum Portrait",
       "slug": "matt-sorum-portrait"
     },
     {
-      "filename": "Memoirs of A Psych-Ward Psychologist.PNG",
+      "src": "./images/Memoirs of A Psych-Ward Psychologist.PNG",
       "title": "Memoirs of A Psych-Ward Psychologist",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Memoirs of A Psych-Ward Psychologist",
       "collection": "other",
       "tags": [],
-      "alt": "Memoirs of A Psych-Ward Psychologist",
       "slug": "memoirs-of-a-psych-ward-psychologist"
     },
     {
-      "filename": "Miners Ride.PNG",
+      "src": "./images/Miners Ride.PNG",
       "title": "Miners Ride",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Miners Ride",
       "collection": "other",
       "tags": [],
-      "alt": "Miners Ride",
       "slug": "miners-ride"
     },
     {
-      "filename": "Mist before the Kimberley’s.PNG",
+      "src": "./images/Mist before the Kimberley’s.PNG",
       "title": "Mist before the Kimberley’s",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Mist before the Kimberley’s",
       "collection": "other",
       "tags": [],
-      "alt": "Mist before the Kimberley’s",
       "slug": "mist-before-the-kimberleys"
     },
     {
-      "filename": "Monopoly Freak.PNG",
+      "src": "./images/Monopoly Freak.PNG",
       "title": "Monopoly Freak",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Monopoly Freak",
       "collection": "other",
       "tags": [],
-      "alt": "Monopoly Freak",
       "slug": "monopoly-freak"
     },
     {
-      "filename": "Mozart Conductor.PNG",
+      "src": "./images/Mozart Conductor.PNG",
       "title": "Mozart Conductor",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Mozart Conductor",
       "collection": "other",
       "tags": [],
-      "alt": "Mozart Conductor",
       "slug": "mozart-conductor"
     },
     {
-      "filename": "Mushroom Pot.PNG",
+      "src": "./images/Mushroom Pot.PNG",
       "title": "Mushroom Pot",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Mushroom Pot",
       "collection": "other",
       "tags": [],
-      "alt": "Mushroom Pot",
       "slug": "mushroom-pot"
     },
     {
-      "filename": "NYE Resolutions.PNG",
+      "src": "./images/NYE Resolutions.PNG",
       "title": "NYE Resolutions",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "NYE Resolutions",
       "collection": "other",
       "tags": [],
-      "alt": "NYE Resolutions",
       "slug": "nye-resolutions"
     },
     {
-      "filename": "Naughty Cat.PNG",
+      "src": "./images/Naughty Cat.PNG",
       "title": "Naughty Cat",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Naughty Cat",
       "collection": "animals",
       "tags": [
         "animals"
       ],
-      "alt": "Naughty Cat",
       "slug": "naughty-cat"
     },
     {
-      "filename": "Nervous Experiment.PNG",
+      "src": "./images/Nervous Experiment.PNG",
       "title": "Nervous Experiment",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Nervous Experiment",
       "collection": "other",
       "tags": [],
-      "alt": "Nervous Experiment",
       "slug": "nervous-experiment"
     },
     {
-      "filename": "Nine Days In Egypt.PNG",
+      "src": "./images/Nine Days In Egypt.PNG",
       "title": "Nine Days In Egypt",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Nine Days In Egypt",
       "collection": "other",
       "tags": [],
-      "alt": "Nine Days In Egypt",
       "slug": "nine-days-in-egypt"
     },
     {
-      "filename": "Offer Thy Soul to the Fiddler.PNG",
+      "src": "./images/Offer Thy Soul to the Fiddler.PNG",
       "title": "Offer Thy Soul to the Fiddler",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Offer Thy Soul to the Fiddler",
       "collection": "other",
       "tags": [],
-      "alt": "Offer Thy Soul to the Fiddler",
       "slug": "offer-thy-soul-to-the-fiddler"
     },
     {
-      "filename": "Otter.PNG",
+      "src": "./images/Otter.PNG",
       "title": "Otter",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Otter",
       "collection": "animals",
       "tags": [
         "animals"
       ],
-      "alt": "Otter",
       "slug": "otter"
     },
     {
-      "filename": "Out of Control Balloon.PNG",
+      "src": "./images/Out of Control Balloon.PNG",
       "title": "Out of Control Balloon",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Out of Control Balloon",
       "collection": "other",
       "tags": [],
-      "alt": "Out of Control Balloon",
       "slug": "out-of-control-balloon"
     },
     {
-      "filename": "PTSD.PNG",
+      "src": "./images/PTSD.PNG",
       "title": "PTSD",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "PTSD",
       "collection": "other",
       "tags": [],
-      "alt": "PTSD",
       "slug": "ptsd"
     },
     {
-      "filename": "Penguins Delight.PNG",
+      "src": "./images/Penguins Delight.PNG",
       "title": "Penguins Delight",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Penguins Delight",
       "collection": "animals",
       "tags": [
         "animals"
       ],
-      "alt": "Penguins Delight",
       "slug": "penguins-delight"
     },
     {
-      "filename": "Photo of Ben Don Sherwood next to his masterpiece 1.PNG",
+      "src": "./images/Photo of Ben Don Sherwood next to his masterpiece 1.PNG",
       "title": "Photo of Ben Don Sherwood next to his masterpiece 1",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Photo of Ben Don Sherwood next to his masterpiece 1",
       "collection": "other",
       "tags": [],
-      "alt": "Photo of Ben Don Sherwood next to his masterpiece 1",
       "slug": "photo-of-ben-don-sherwood-next-to-his-masterpiece-1"
     },
     {
-      "filename": "Pizza Man.PNG",
+      "src": "./images/Pizza Man.PNG",
       "title": "Pizza Man",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Pizza Man",
       "collection": "other",
       "tags": [],
-      "alt": "Pizza Man",
       "slug": "pizza-man"
     },
     {
-      "filename": "Pocorn Emu.PNG",
+      "src": "./images/Pocorn Emu.PNG",
       "title": "Pocorn Emu",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Pocorn Emu",
       "collection": "animals",
       "tags": [
         "animals"
       ],
-      "alt": "Pocorn Emu",
       "slug": "pocorn-emu"
     },
     {
-      "filename": "Political Assention.PNG",
+      "src": "./images/Political Assention.PNG",
       "title": "Political Assention",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Political Assention",
       "collection": "other",
       "tags": [],
-      "alt": "Political Assention",
       "slug": "political-assention"
     },
     {
-      "filename": "Pool Man.PNG",
+      "src": "./images/Pool Man.PNG",
       "title": "Pool Man",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Pool Man",
       "collection": "other",
       "tags": [],
-      "alt": "Pool Man",
       "slug": "pool-man"
     },
     {
-      "filename": "Porcupine.PNG",
+      "src": "./images/Porcupine.PNG",
       "title": "Porcupine",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Porcupine",
       "collection": "animals",
       "tags": [
         "animals"
       ],
-      "alt": "Porcupine",
       "slug": "porcupine"
     },
     {
-      "filename": "Portrait of AWOL Nation Aaron Bruno.PNG",
+      "src": "./images/Portrait of AWOL Nation Aaron Bruno.PNG",
       "title": "Portrait of AWOL Nation Aaron Bruno",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Portrait of AWOL Nation Aaron Bruno",
       "collection": "portraits",
       "tags": [
         "portraits"
       ],
-      "alt": "Portrait of AWOL Nation Aaron Bruno",
       "slug": "portrait-of-awol-nation-aaron-bruno"
     },
     {
-      "filename": "Portrait of Actor ‘Oliver Platt’.PNG",
+      "src": "./images/Portrait of Actor ‘Oliver Platt’.PNG",
       "title": "Portrait of Actor ‘Oliver Platt’",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Portrait of Actor ‘Oliver Platt’",
       "collection": "portraits",
       "tags": [
         "portraits"
       ],
-      "alt": "Portrait of Actor ‘Oliver Platt’",
       "slug": "portrait-of-actor-oliver-platt"
     },
     {
-      "filename": "Portrait of Gary Kemp.PNG",
+      "src": "./images/Portrait of Gary Kemp.PNG",
       "title": "Portrait of Gary Kemp",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Portrait of Gary Kemp",
       "collection": "portraits",
       "tags": [
         "portraits"
       ],
-      "alt": "Portrait of Gary Kemp",
       "slug": "portrait-of-gary-kemp"
     },
     {
-      "filename": "Portrait of Paul Williams.PNG",
+      "src": "./images/Portrait of Paul Williams.PNG",
       "title": "Portrait of Paul Williams",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Portrait of Paul Williams",
       "collection": "portraits",
       "tags": [
         "portraits"
       ],
-      "alt": "Portrait of Paul Williams",
       "slug": "portrait-of-paul-williams"
     },
     {
-      "filename": "Portrait of Peter Boyle.PNG",
+      "src": "./images/Portrait of Peter Boyle.PNG",
       "title": "Portrait of Peter Boyle",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Portrait of Peter Boyle",
       "collection": "portraits",
       "tags": [
         "portraits"
       ],
-      "alt": "Portrait of Peter Boyle",
       "slug": "portrait-of-peter-boyle"
     },
     {
-      "filename": "Portrait of my Grandfather (Trevor Bowman).PNG",
+      "src": "./images/Portrait of my Grandfather (Trevor Bowman).PNG",
       "title": "Portrait of my Grandfather (Trevor Bowman)",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Portrait of my Grandfather (Trevor Bowman)",
       "collection": "portraits",
       "tags": [
         "portraits"
       ],
-      "alt": "Portrait of my Grandfather (Trevor Bowman)",
       "slug": "portrait-of-my-grandfather-trevor-bowman"
     },
     {
-      "filename": "Preliminary Sketch of ‘Precarious’.PNG",
+      "src": "./images/Preliminary Sketch of ‘Precarious’.PNG",
       "title": "Preliminary Sketch of ‘Precarious’",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Preliminary Sketch of ‘Precarious’",
       "collection": "sketches",
       "tags": [
         "sketches"
       ],
-      "alt": "Preliminary Sketch of ‘Precarious’",
       "slug": "preliminary-sketch-of-precarious"
     },
     {
-      "filename": "Public Servant Dragon.PNG",
+      "src": "./images/Public Servant Dragon.PNG",
       "title": "Public Servant Dragon",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Public Servant Dragon",
       "collection": "other",
       "tags": [],
-      "alt": "Public Servant Dragon",
       "slug": "public-servant-dragon"
     },
     {
-      "filename": "Public Servant Nightmare.PNG",
+      "src": "./images/Public Servant Nightmare.PNG",
       "title": "Public Servant Nightmare",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Public Servant Nightmare",
       "collection": "other",
       "tags": [],
-      "alt": "Public Servant Nightmare",
       "slug": "public-servant-nightmare"
     },
     {
-      "filename": "QLD Joirney.PNG",
+      "src": "./images/QLD Joirney.PNG",
       "title": "QLD Joirney",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "QLD Joirney",
       "collection": "other",
       "tags": [],
-      "alt": "QLD Joirney",
       "slug": "qld-joirney"
     },
     {
-      "filename": "Rabbit Droppings Bell.PNG",
+      "src": "./images/Rabbit Droppings Bell.PNG",
       "title": "Rabbit Droppings Bell",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Rabbit Droppings Bell",
       "collection": "animals",
       "tags": [
         "animals"
       ],
-      "alt": "Rabbit Droppings Bell",
       "slug": "rabbit-droppings-bell"
     },
     {
-      "filename": "Random Doodlings 4.PNG",
+      "src": "./images/Random Doodlings 4.PNG",
       "title": "Random Doodlings 4",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Random Doodlings 4",
       "collection": "sketches",
       "tags": [
         "sketches"
       ],
-      "alt": "Random Doodlings 4",
       "slug": "random-doodlings-4"
     },
     {
-      "filename": "Random Doodlings.PNG",
+      "src": "./images/Random Doodlings.PNG",
       "title": "Random Doodlings",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Random Doodlings",
       "collection": "sketches",
       "tags": [
         "sketches"
       ],
-      "alt": "Random Doodlings",
       "slug": "random-doodlings"
     },
     {
-      "filename": "Retro Art.PNG",
+      "src": "./images/Retro Art.PNG",
       "title": "Retro Art",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Retro Art",
       "collection": "other",
       "tags": [],
-      "alt": "Retro Art",
       "slug": "retro-art"
     },
     {
-      "filename": "Robot Sheltie Fruit.PNG",
+      "src": "./images/Robot Sheltie Fruit.PNG",
       "title": "Robot Sheltie Fruit",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Robot Sheltie Fruit",
       "collection": "other",
       "tags": [],
-      "alt": "Robot Sheltie Fruit",
       "slug": "robot-sheltie-fruit"
     },
     {
-      "filename": "Sankara Stone.PNG",
+      "src": "./images/Sankara Stone.PNG",
       "title": "Sankara Stone",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Sankara Stone",
       "collection": "other",
       "tags": [],
-      "alt": "Sankara Stone",
       "slug": "sankara-stone"
     },
     {
-      "filename": "Santa Monica in the 70’s.PNG",
+      "src": "./images/Santa Monica in the 70’s.PNG",
       "title": "Santa Monica in the 70’s",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Santa Monica in the 70’s",
       "collection": "landscapes",
       "tags": [
         "landscapes"
       ],
-      "alt": "Santa Monica in the 70’s",
       "slug": "santa-monica-in-the-70s"
     },
     {
-      "filename": "Scottish Golfer.PNG",
+      "src": "./images/Scottish Golfer.PNG",
       "title": "Scottish Golfer",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Scottish Golfer",
       "collection": "other",
       "tags": [],
-      "alt": "Scottish Golfer",
       "slug": "scottish-golfer"
     },
     {
-      "filename": "Scottish Pipes.PNG",
+      "src": "./images/Scottish Pipes.PNG",
       "title": "Scottish Pipes",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Scottish Pipes",
       "collection": "other",
       "tags": [],
-      "alt": "Scottish Pipes",
       "slug": "scottish-pipes"
     },
     {
-      "filename": "Self Portrait in the Desert.PNG",
+      "src": "./images/Self Portrait in the Desert.PNG",
       "title": "Self Portrait in the Desert",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Self Portrait in the Desert",
       "collection": "portraits",
       "tags": [
         "portraits"
       ],
-      "alt": "Self Portrait in the Desert",
       "slug": "self-portrait-in-the-desert"
     },
     {
-      "filename": "Shifting Plates (Abstract).PNG",
+      "src": "./images/Shifting Plates (Abstract).PNG",
       "title": "Shifting Plates (Abstract)",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Shifting Plates (Abstract)",
       "collection": "abstracts",
       "tags": [
         "abstracts"
       ],
-      "alt": "Shifting Plates (Abstract)",
       "slug": "shifting-plates-abstract"
     },
     {
-      "filename": "Skater Hawk.PNG",
+      "src": "./images/Skater Hawk.PNG",
       "title": "Skater Hawk",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Skater Hawk",
       "collection": "other",
       "tags": [],
-      "alt": "Skater Hawk",
       "slug": "skater-hawk"
     },
     {
-      "filename": "Sleeping.PNG",
+      "src": "./images/Sleeping.PNG",
       "title": "Sleeping",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Sleeping",
       "collection": "other",
       "tags": [],
-      "alt": "Sleeping",
       "slug": "sleeping"
     },
     {
-      "filename": "Snail on a Leaf.PNG",
+      "src": "./images/Snail on a Leaf.PNG",
       "title": "Snail on a Leaf",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Snail on a Leaf",
       "collection": "animals",
       "tags": [
         "animals"
       ],
-      "alt": "Snail on a Leaf",
       "slug": "snail-on-a-leaf"
     },
     {
-      "filename": "Sniper.PNG",
+      "src": "./images/Sniper.PNG",
       "title": "Sniper",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Sniper",
       "collection": "other",
       "tags": [],
-      "alt": "Sniper",
       "slug": "sniper"
     },
     {
-      "filename": "Spaceman in Swamp.PNG",
+      "src": "./images/Spaceman in Swamp.PNG",
       "title": "Spaceman in Swamp",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Spaceman in Swamp",
       "collection": "landscapes",
       "tags": [
         "landscapes"
       ],
-      "alt": "Spaceman in Swamp",
       "slug": "spaceman-in-swamp"
     },
     {
-      "filename": "St John’s In ANZAC Park, Reid (Frosty Morning).PNG",
+      "src": "./images/St John’s In ANZAC Park, Reid (Frosty Morning).PNG",
       "title": "St John’s In ANZAC Park, Reid (Frosty Morning)",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "St John’s In ANZAC Park, Reid (Frosty Morning)",
       "collection": "landscapes",
       "tags": [
         "landscapes"
       ],
-      "alt": "St John’s In ANZAC Park, Reid (Frosty Morning)",
       "slug": "st-johns-in-anzac-park-reid-frosty-morning"
     },
     {
-      "filename": "Surreal Painting No 3.PNG",
+      "src": "./images/Surreal Painting No 3.PNG",
       "title": "Surreal Painting No 3",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Surreal Painting No 3",
       "collection": "surrealism",
       "tags": [
         "surrealism"
       ],
-      "alt": "Surreal Painting No 3",
       "slug": "surreal-painting-no-3"
     },
     {
-      "filename": "Sydney Firefighter.PNG",
+      "src": "./images/Sydney Firefighter.PNG",
       "title": "Sydney Firefighter",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Sydney Firefighter",
       "collection": "other",
       "tags": [],
-      "alt": "Sydney Firefighter",
       "slug": "sydney-firefighter"
     },
     {
-      "filename": "Sy’s Bass (Abstract 1).PNG",
+      "src": "./images/Sy’s Bass (Abstract 1).PNG",
       "title": "Sy’s Bass (Abstract 1)",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Sy’s Bass (Abstract 1)",
       "collection": "abstracts",
       "tags": [
         "abstracts"
       ],
-      "alt": "Sy’s Bass (Abstract 1)",
       "slug": "sys-bass-abstract-1"
     },
     {
-      "filename": "Sy’s Bass Finished Abstract painting.PNG",
+      "src": "./images/Sy’s Bass Finished Abstract painting.PNG",
       "title": "Sy’s Bass Finished Abstract painting",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Sy’s Bass Finished Abstract painting",
       "collection": "abstracts",
       "tags": [
         "abstracts"
       ],
-      "alt": "Sy’s Bass Finished Abstract painting",
       "slug": "sys-bass-finished-abstract-painting"
     },
     {
-      "filename": "Taxi Driver No1.PNG",
+      "src": "./images/Taxi Driver No1.PNG",
       "title": "Taxi Driver No1",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Taxi Driver No1",
       "collection": "other",
       "tags": [],
-      "alt": "Taxi Driver No1",
       "slug": "taxi-driver-no1"
     },
     {
-      "filename": "Taxi Driver No2.PNG",
+      "src": "./images/Taxi Driver No2.PNG",
       "title": "Taxi Driver No2",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Taxi Driver No2",
       "collection": "other",
       "tags": [],
-      "alt": "Taxi Driver No2",
       "slug": "taxi-driver-no2"
     },
     {
-      "filename": "The Genius.PNG",
+      "src": "./images/The Genius.PNG",
       "title": "The Genius",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "The Genius",
       "collection": "other",
       "tags": [],
-      "alt": "The Genius",
       "slug": "the-genius"
     },
     {
-      "filename": "The Joker.PNG",
+      "src": "./images/The Joker.PNG",
       "title": "The Joker",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "The Joker",
       "collection": "other",
       "tags": [],
-      "alt": "The Joker",
       "slug": "the-joker"
     },
     {
-      "filename": "The Light Horseman.PNG",
+      "src": "./images/The Light Horseman.PNG",
       "title": "The Light Horseman",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "The Light Horseman",
       "collection": "animals",
       "tags": [
         "animals"
       ],
-      "alt": "The Light Horseman",
       "slug": "the-light-horseman"
     },
     {
-      "filename": "The Painting Within.PNG",
+      "src": "./images/The Painting Within.PNG",
       "title": "The Painting Within",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "The Painting Within",
       "collection": "other",
       "tags": [],
-      "alt": "The Painting Within",
       "slug": "the-painting-within"
     },
     {
-      "filename": "Toilet Paper.PNG",
+      "src": "./images/Toilet Paper.PNG",
       "title": "Toilet Paper",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Toilet Paper",
       "collection": "other",
       "tags": [],
-      "alt": "Toilet Paper",
       "slug": "toilet-paper"
     },
     {
-      "filename": "Tolkien Storyteller.PNG",
+      "src": "./images/Tolkien Storyteller.PNG",
       "title": "Tolkien Storyteller",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Tolkien Storyteller",
       "collection": "other",
       "tags": [],
-      "alt": "Tolkien Storyteller",
       "slug": "tolkien-storyteller"
     },
     {
-      "filename": "Touching the Face of God 2.PNG",
+      "src": "./images/Touching the Face of God 2.PNG",
       "title": "Touching the Face of God 2",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Touching the Face of God 2",
       "collection": "other",
       "tags": [],
-      "alt": "Touching the Face of God 2",
       "slug": "touching-the-face-of-god-2"
     },
     {
-      "filename": "Touching the Face of God.PNG",
+      "src": "./images/Touching the Face of God.PNG",
       "title": "Touching the Face of God",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Touching the Face of God",
       "collection": "other",
       "tags": [],
-      "alt": "Touching the Face of God",
       "slug": "touching-the-face-of-god"
     },
     {
-      "filename": "Treasure Trove.PNG",
+      "src": "./images/Treasure Trove.PNG",
       "title": "Treasure Trove",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Treasure Trove",
       "collection": "other",
       "tags": [],
-      "alt": "Treasure Trove",
       "slug": "treasure-trove"
     },
     {
-      "filename": "Tribute to Burt Lancaster.PNG",
+      "src": "./images/Tribute to Burt Lancaster.PNG",
       "title": "Tribute to Burt Lancaster",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Tribute to Burt Lancaster",
       "collection": "tributes_pop",
       "tags": [
         "tributes_pop"
       ],
-      "alt": "Tribute to Burt Lancaster",
       "slug": "tribute-to-burt-lancaster"
     },
     {
-      "filename": "Trippin Out.PNG",
+      "src": "./images/Trippin Out.PNG",
       "title": "Trippin Out",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Trippin Out",
       "collection": "surrealism",
       "tags": [
         "surrealism"
       ],
-      "alt": "Trippin Out",
       "slug": "trippin-out"
     },
     {
-      "filename": "Trippy Surreal.PNG",
+      "src": "./images/Trippy Surreal.PNG",
       "title": "Trippy Surreal",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Trippy Surreal",
       "collection": "surrealism",
       "tags": [
         "surrealism"
       ],
-      "alt": "Trippy Surreal",
       "slug": "trippy-surreal"
     },
     {
-      "filename": "Turkish Dolphin Spaghetti.PNG",
+      "src": "./images/Turkish Dolphin Spaghetti.PNG",
       "title": "Turkish Dolphin Spaghetti",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Turkish Dolphin Spaghetti",
       "collection": "animals",
       "tags": [
         "animals"
       ],
-      "alt": "Turkish Dolphin Spaghetti",
       "slug": "turkish-dolphin-spaghetti"
     },
     {
-      "filename": "Typewriter Lobster.PNG",
+      "src": "./images/Typewriter Lobster.PNG",
       "title": "Typewriter Lobster",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Typewriter Lobster",
       "collection": "other",
       "tags": [],
-      "alt": "Typewriter Lobster",
       "slug": "typewriter-lobster"
     },
     {
-      "filename": "Val Kilmer.PNG",
+      "src": "./images/Val Kilmer.PNG",
       "title": "Val Kilmer",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Val Kilmer",
       "collection": "tributes_pop",
       "tags": [
         "tributes_pop"
       ],
-      "alt": "Val Kilmer",
       "slug": "val-kilmer"
     },
     {
-      "filename": "Vegas.PNG",
+      "src": "./images/Vegas.PNG",
       "title": "Vegas",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Vegas",
       "collection": "other",
       "tags": [],
-      "alt": "Vegas",
       "slug": "vegas"
     },
     {
-      "filename": "WWI Fighter Pilot.PNG",
+      "src": "./images/WWI Fighter Pilot.PNG",
       "title": "WWI Fighter Pilot",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "WWI Fighter Pilot",
       "collection": "historical",
       "tags": [
         "historical"
       ],
-      "alt": "WWI Fighter Pilot",
       "slug": "wwi-fighter-pilot"
     },
     {
-      "filename": "WWII Soldier.PNG",
+      "src": "./images/WWII Soldier.PNG",
       "title": "WWII Soldier",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "WWII Soldier",
       "collection": "historical",
       "tags": [
         "historical"
       ],
-      "alt": "WWII Soldier",
       "slug": "wwii-soldier"
     },
     {
-      "filename": "Weird Song.PNG",
+      "src": "./images/Weird Song.PNG",
       "title": "Weird Song",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Weird Song",
       "collection": "surrealism",
       "tags": [
         "surrealism"
       ],
-      "alt": "Weird Song",
       "slug": "weird-song"
     },
     {
-      "filename": "Western Cartoons.PNG",
+      "src": "./images/Western Cartoons.PNG",
       "title": "Western Cartoons",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Western Cartoons",
       "collection": "cartoons",
       "tags": [
         "cartoons"
       ],
-      "alt": "Western Cartoons",
       "slug": "western-cartoons"
     },
     {
-      "filename": "What Happens When it Happens.PNG",
+      "src": "./images/What Happens When it Happens.PNG",
       "title": "What Happens When it Happens",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "What Happens When it Happens",
       "collection": "other",
       "tags": [],
-      "alt": "What Happens When it Happens",
       "slug": "what-happens-when-it-happens"
     },
     {
-      "filename": "Whitley at the Roxy.PNG",
+      "src": "./images/Whitley at the Roxy.PNG",
       "title": "Whitley at the Roxy",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "Whitley at the Roxy",
       "collection": "tributes_pop",
       "tags": [
         "tributes_pop"
       ],
-      "alt": "Whitley at the Roxy",
       "slug": "whitley-at-the-roxy"
     },
     {
-      "filename": "‘Golden Spokes’ Abstract.PNG",
+      "src": "./images/‘Golden Spokes’ Abstract.PNG",
       "title": "‘Golden Spokes’ Abstract",
-      "year": null,
-      "medium": null,
-      "dimensions": null,
-      "price": null,
-      "for_sale": false,
+      "alt": "‘Golden Spokes’ Abstract",
       "collection": "abstracts",
       "tags": [
         "abstracts"
       ],
-      "alt": "‘Golden Spokes’ Abstract",
       "slug": "golden-spokes-abstract"
     }
   ],
-  "grouping": {
+  "filters": {
     "by": "collection",
-    "available_collections": [
+    "collections": [
       {
         "id": "all",
-        "title": "All Works",
-        "filter": "*"
+        "title": "All Works"
       },
       {
         "id": "abstracts",
-        "title": "Abstracts",
-        "filter": "abstracts"
+        "title": "Abstracts"
       },
       {
         "id": "portraits",
-        "title": "Portraits",
-        "filter": "portraits"
+        "title": "Portraits"
       },
       {
         "id": "landscapes",
-        "title": "Landscapes",
-        "filter": "landscapes"
+        "title": "Landscapes"
       },
       {
         "id": "animals",
-        "title": "Animals",
-        "filter": "animals"
+        "title": "Animals"
       },
       {
         "id": "historical",
-        "title": "Historical",
-        "filter": "historical"
+        "title": "Historical"
       },
       {
         "id": "cartoons",
-        "title": "Cartoons",
-        "filter": "cartoons"
+        "title": "Cartoons"
       },
       {
         "id": "sketches",
-        "title": "Sketches",
-        "filter": "sketches"
+        "title": "Sketches"
       },
       {
         "id": "surrealism",
-        "title": "Surrealism",
-        "filter": "surrealism"
+        "title": "Surrealism"
       },
       {
         "id": "tributes_pop",
-        "title": "Tributes & Pop Culture",
-        "filter": "tributes_pop"
+        "title": "Tributes & Pop Culture"
       },
       {
         "id": "other",
-        "title": "Other",
-        "filter": "other"
+        "title": "Other"
       }
-    ],
-    "rules": {
-      "abstracts": [
-        "abstract",
-        "figurative abstract"
-      ],
-      "portraits": [
-        "portrait"
-      ],
-      "landscapes": [
-        "landscape",
-        "bay",
-        "beach",
-        "desert",
-        "park",
-        "swamp",
-        "bhutan",
-        "santa monica"
-      ],
-      "animals": [
-        "cat",
-        "dog",
-        "otter",
-        "penguin",
-        "penguins",
-        "seagull",
-        "horse",
-        "elephant",
-        "rabbit",
-        "platypus",
-        "porcupine",
-        "snail",
-        "dolphin",
-        "emu",
-        "camel",
-        "lizard",
-        "croc"
-      ],
-      "historical": [
-        "civil war",
-        "wwi",
-        "wwii",
-        "light horseman",
-        "jack the ripper"
-      ],
-      "cartoons": [
-        "cartoon",
-        "cartoons",
-        "comic"
-      ],
-      "sketches": [
-        "sketch",
-        "doodling",
-        "doodlings",
-        "charcoal"
-      ],
-      "surrealism": [
-        "surreal",
-        "hallucinogen",
-        "dream",
-        "dreams",
-        "weird",
-        "trippin",
-        "trippy"
-      ],
-      "tributes_pop": [
-        "tribute",
-        "james bond",
-        "picasso",
-        "degas",
-        "disney",
-        "awol nation",
-        "oliver platt",
-        "gary kemp",
-        "paul williams",
-        "peter boyle",
-        "val kilmer",
-        "whitley"
-      ]
-    }
+    ]
   }
 }
