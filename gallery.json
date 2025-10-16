@@ -1,742 +1,153 @@
 [
-  {
-    "file": "./images/7 Yellow Box’s.PNG",
-    "title": "7 Yellow Box’s",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Abstract Painting 95.PNG",
-    "title": "Abstract Painting 95",
-    "tag": "abstract"
-  },
-  {
-    "file": "./images/Abstract Painting 96.PNG",
-    "title": "Abstract Painting 96",
-    "tag": "abstract"
-  },
-  {
-    "file": "./images/Abstract Painting 99.PNG",
-    "title": "Abstract Painting 99",
-    "tag": "abstract"
-  },
-  {
-    "file": "./images/Abstract painting 98.PNG",
-    "title": "Abstract painting 98",
-    "tag": "abstract"
-  },
-  {
-    "file": "./images/Actor Devil.PNG",
-    "title": "Actor Devil",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Actors.PNG",
-    "title": "Actors",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Antarctic Moon Hub Abstract.PNG",
-    "title": "Antarctic Moon Hub Abstract",
-    "tag": "abstract"
-  },
-  {
-    "file": "./images/Art Gallery Cartoons.PNG",
-    "title": "Art Gallery Cartoons",
-    "tag": "cartoon"
-  },
-  {
-    "file": "./images/Aussie Barfly.PNG",
-    "title": "Aussie Barfly",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Barfly 2.PNG",
-    "title": "Barfly 2",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Batemans Bay Seagull.PNG",
-    "title": "Batemans Bay Seagull",
-    "tag": "landscape"
-  },
-  {
-    "file": "./images/Bateman’s Bay (Sardine Pelican).PNG",
-    "title": "Bateman’s Bay (Sardine Pelican)",
-    "tag": "landscape"
-  },
-  {
-    "file": "./images/Beach Bather.PNG",
-    "title": "Beach Bather",
-    "tag": "landscape"
-  },
-  {
-    "file": "./images/Beef Jerky.PNG",
-    "title": "Beef Jerky",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Ben Don Sherwood painting (Profile Artist).PNG",
-    "title": "Ben Don Sherwood painting (Profile Artist)",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Ben on Guitar.PNG",
-    "title": "Ben on Guitar",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Bizarre Facade.PNG",
-    "title": "Bizarre Facade",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Blind Walk.PNG",
-    "title": "Blind Walk",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Bouncing Elephant.PNG",
-    "title": "Bouncing Elephant",
-    "tag": "animal"
-  },
-  {
-    "file": "./images/Broken Down in the Desert.PNG",
-    "title": "Broken Down in the Desert",
-    "tag": "landscape"
-  },
-  {
-    "file": "./images/Cafe Haight Ashbury.PNG",
-    "title": "Cafe Haight Ashbury",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Camel Traveller.PNG",
-    "title": "Camel Traveller",
-    "tag": "animal"
-  },
-  {
-    "file": "./images/Carnival Slaughterhouse.PNG",
-    "title": "Carnival Slaughterhouse",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Charcoal Moses(1).PNG",
-    "title": "Charcoal Moses(1)",
-    "tag": "sketch"
-  },
-  {
-    "file": "./images/Chinese Delivery Rabbit in Greece.PNG",
-    "title": "Chinese Delivery Rabbit in Greece",
-    "tag": "animal"
-  },
-  {
-    "file": "./images/Cigarette Cafe.PNG",
-    "title": "Cigarette Cafe",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Civil War Soldier.PNG",
-    "title": "Civil War Soldier",
-    "tag": "historical"
-  },
-  {
-    "file": "./images/Close up of Sy’s Bass Abstract Painting.PNG",
-    "title": "Close up of Sy’s Bass Abstract Painting",
-    "tag": "abstract"
-  },
-  {
-    "file": "./images/Close up of ‘Deep In Eden’ Abstract.PNG",
-    "title": "Close up of ‘Deep In Eden’ Abstract",
-    "tag": "abstract"
-  },
-  {
-    "file": "./images/Close up of ‘Deep In Eden’ Figurative Abstract.PNG",
-    "title": "Close up of ‘Deep In Eden’ Figurative Abstract",
-    "tag": "abstract"
-  },
-  {
-    "file": "./images/Close up of ‘The Winter Hunt’.PNG",
-    "title": "Close up of ‘The Winter Hunt’",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Cosmos Abstract that was later called ‘9 Sharks’.PNG",
-    "title": "Cosmos Abstract that was later called ‘9 Sharks’",
-    "tag": "abstract"
-  },
-  {
-    "file": "./images/Counterfeit Illusion.PNG",
-    "title": "Counterfeit Illusion",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Crab.PNG",
-    "title": "Crab",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Crashing Hope.PNG",
-    "title": "Crashing Hope",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Croc Pellican.PNG",
-    "title": "Croc Pellican",
-    "tag": "animal"
-  },
-  {
-    "file": "./images/Crocodile Baby Photos.PNG",
-    "title": "Crocodile Baby Photos",
-    "tag": "animal"
-  },
-  {
-    "file": "./images/Daytime Tv Swill Park.PNG",
-    "title": "Daytime Tv Swill Park",
-    "tag": "landscape"
-  },
-  {
-    "file": "./images/Degas Dancers Tribute.PNG",
-    "title": "Degas Dancers Tribute",
-    "tag": "tribute"
-  },
-  {
-    "file": "./images/Disney Tribute.PNG",
-    "title": "Disney Tribute",
-    "tag": "tribute"
-  },
-  {
-    "file": "./images/Disneys 9 Old Men.PNG",
-    "title": "Disneys 9 Old Men",
-    "tag": "tribute"
-  },
-  {
-    "file": "./images/Dog with Bird.PNG",
-    "title": "Dog with Bird",
-    "tag": "animal"
-  },
-  {
-    "file": "./images/Dragon Guard.PNG",
-    "title": "Dragon Guard",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Dreams.PNG",
-    "title": "Dreams",
-    "tag": "surrealism"
-  },
-  {
-    "file": "./images/Fast Porky.PNG",
-    "title": "Fast Porky",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Figurative Abstract1.PNG",
-    "title": "Figurative Abstract1",
-    "tag": "abstract"
-  },
-  {
-    "file": "./images/Fly Bomber.PNG",
-    "title": "Fly Bomber",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Framed Picasso Tribute.PNG",
-    "title": "Framed Picasso Tribute",
-    "tag": "tribute"
-  },
-  {
-    "file": "./images/Frank Furt.PNG",
-    "title": "Frank Furt",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Freddie.PNG",
-    "title": "Freddie",
-    "tag": "other"
-  },
-  {
-    "file": "./images/General.PNG",
-    "title": "General",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Ghostly Staircase.PNG",
-    "title": "Ghostly Staircase",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Ghosts in Heaven.PNG",
-    "title": "Ghosts in Heaven",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Golfer.PNG",
-    "title": "Golfer",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Hallucinogen.PNG",
-    "title": "Hallucinogen",
-    "tag": "surrealism"
-  },
-  {
-    "file": "./images/Hanging one of my Abstracts in the gallery.PNG",
-    "title": "Hanging one of my Abstracts in the gallery",
-    "tag": "abstract"
-  },
-  {
-    "file": "./images/Horse.PNG",
-    "title": "Horse",
-    "tag": "animal"
-  },
-  {
-    "file": "./images/Hounds Balls.PNG",
-    "title": "Hounds Balls",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Indian Sitar Player.PNG",
-    "title": "Indian Sitar Player",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Jack The Ripper Modern Surgeon.PNG",
-    "title": "Jack The Ripper Modern Surgeon",
-    "tag": "historical"
-  },
-  {
-    "file": "./images/Jackson Trip.PNG",
-    "title": "Jackson Trip",
-    "tag": "other"
-  },
-  {
-    "file": "./images/James Bond Casino Game Play 2.PNG",
-    "title": "James Bond Casino Game Play 2",
-    "tag": "tribute"
-  },
-  {
-    "file": "./images/James Bond Casino Game Play.PNG",
-    "title": "James Bond Casino Game Play",
-    "tag": "tribute"
-  },
-  {
-    "file": "./images/Jazz Man Warp.PNG",
-    "title": "Jazz Man Warp",
-    "tag": "other"
-  },
-  {
-    "file": "./images/John Lennon Milking a cow with a Sheltie.PNG",
-    "title": "John Lennon Milking a cow with a Sheltie",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Junk Balloon Windstorm.PNG",
-    "title": "Junk Balloon Windstorm",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Landscape of Bhutan.PNG",
-    "title": "Landscape of Bhutan",
-    "tag": "landscape"
-  },
-  {
-    "file": "./images/Lizard & Platypus.PNG",
-    "title": "Lizard & Platypus",
-    "tag": "animal"
-  },
-  {
-    "file": "./images/Lochness Monster Sightings.PNG",
-    "title": "Lochness Monster Sightings",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Matt Sorum Portrait.PNG",
-    "title": "Matt Sorum Portrait",
-    "tag": "portrait"
-  },
-  {
-    "file": "./images/Memoirs of A Psych-Ward Psychologist.PNG",
-    "title": "Memoirs of A Psych-Ward Psychologist",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Miners Ride.PNG",
-    "title": "Miners Ride",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Mist before the Kimberley’s.PNG",
-    "title": "Mist before the Kimberley’s",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Monopoly Freak.PNG",
-    "title": "Monopoly Freak",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Mozart Conductor.PNG",
-    "title": "Mozart Conductor",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Mushroom Pot.PNG",
-    "title": "Mushroom Pot",
-    "tag": "other"
-  },
-  {
-    "file": "./images/NYE Resolutions.PNG",
-    "title": "NYE Resolutions",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Naughty Cat.PNG",
-    "title": "Naughty Cat",
-    "tag": "animal"
-  },
-  {
-    "file": "./images/Nervous Experiment.PNG",
-    "title": "Nervous Experiment",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Nine Days In Egypt.PNG",
-    "title": "Nine Days In Egypt",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Offer Thy Soul to the Fiddler.PNG",
-    "title": "Offer Thy Soul to the Fiddler",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Otter.PNG",
-    "title": "Otter",
-    "tag": "animal"
-  },
-  {
-    "file": "./images/Out of Control Balloon.PNG",
-    "title": "Out of Control Balloon",
-    "tag": "other"
-  },
-  {
-    "file": "./images/PTSD.PNG",
-    "title": "PTSD",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Penguins Delight.PNG",
-    "title": "Penguins Delight",
-    "tag": "animal"
-  },
-  {
-    "file": "./images/Photo of Ben Don Sherwood next to his masterpiece 1.PNG",
-    "title": "Photo of Ben Don Sherwood next to his masterpiece 1",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Pizza Man.PNG",
-    "title": "Pizza Man",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Pocorn Emu.PNG",
-    "title": "Pocorn Emu",
-    "tag": "animal"
-  },
-  {
-    "file": "./images/Political Assention.PNG",
-    "title": "Political Assention",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Pool Man.PNG",
-    "title": "Pool Man",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Porcupine.PNG",
-    "title": "Porcupine",
-    "tag": "animal"
-  },
-  {
-    "file": "./images/Portrait of AWOL Nation Aaron Bruno.PNG",
-    "title": "Portrait of AWOL Nation Aaron Bruno",
-    "tag": "portrait"
-  },
-  {
-    "file": "./images/Portrait of Actor ‘Oliver Platt’.PNG",
-    "title": "Portrait of Actor ‘Oliver Platt’",
-    "tag": "portrait"
-  },
-  {
-    "file": "./images/Portrait of Gary Kemp.PNG",
-    "title": "Portrait of Gary Kemp",
-    "tag": "portrait"
-  },
-  {
-    "file": "./images/Portrait of Paul Williams.PNG",
-    "title": "Portrait of Paul Williams",
-    "tag": "portrait"
-  },
-  {
-    "file": "./images/Portrait of Peter Boyle.PNG",
-    "title": "Portrait of Peter Boyle",
-    "tag": "portrait"
-  },
-  {
-    "file": "./images/Portrait of my Grandfather (Trevor Bowman).PNG",
-    "title": "Portrait of my Grandfather (Trevor Bowman)",
-    "tag": "portrait"
-  },
-  {
-    "file": "./images/Preliminary Sketch of ‘Precarious’.PNG",
-    "title": "Preliminary Sketch of ‘Precarious’",
-    "tag": "sketch"
-  },
-  {
-    "file": "./images/Public Servant Dragon.PNG",
-    "title": "Public Servant Dragon",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Public Servant Nightmare.PNG",
-    "title": "Public Servant Nightmare",
-    "tag": "other"
-  },
-  {
-    "file": "./images/QLD Joirney.PNG",
-    "title": "QLD Joirney",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Rabbit Droppings Bell.PNG",
-    "title": "Rabbit Droppings Bell",
-    "tag": "animal"
-  },
-  {
-    "file": "./images/Random Doodlings 4.PNG",
-    "title": "Random Doodlings 4",
-    "tag": "sketch"
-  },
-  {
-    "file": "./images/Random Doodlings.PNG",
-    "title": "Random Doodlings",
-    "tag": "sketch"
-  },
-  {
-    "file": "./images/Retro Art.PNG",
-    "title": "Retro Art",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Robot Sheltie Fruit.PNG",
-    "title": "Robot Sheltie Fruit",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Sankara Stone.PNG",
-    "title": "Sankara Stone",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Santa Monica in the 70’s.PNG",
-    "title": "Santa Monica in the 70’s",
-    "tag": "landscape"
-  },
-  {
-    "file": "./images/Scottish Golfer.PNG",
-    "title": "Scottish Golfer",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Scottish Pipes.PNG",
-    "title": "Scottish Pipes",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Self Portrait in the Desert.PNG",
-    "title": "Self Portrait in the Desert",
-    "tag": "portrait"
-  },
-  {
-    "file": "./images/Shifting Plates (Abstract).PNG",
-    "title": "Shifting Plates (Abstract)",
-    "tag": "abstract"
-  },
-  {
-    "file": "./images/Skater Hawk.PNG",
-    "title": "Skater Hawk",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Sleeping.PNG",
-    "title": "Sleeping",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Snail on a Leaf.PNG",
-    "title": "Snail on a Leaf",
-    "tag": "animal"
-  },
-  {
-    "file": "./images/Sniper.PNG",
-    "title": "Sniper",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Spaceman in Swamp.PNG",
-    "title": "Spaceman in Swamp",
-    "tag": "landscape"
-  },
-  {
-    "file": "./images/St John’s In ANZAC Park, Reid (Frosty Morning).PNG",
-    "title": "St John’s In ANZAC Park, Reid (Frosty Morning)",
-    "tag": "landscape"
-  },
-  {
-    "file": "./images/Surreal Painting No 3.PNG",
-    "title": "Surreal Painting No 3",
-    "tag": "surrealism"
-  },
-  {
-    "file": "./images/Sydney Firefighter.PNG",
-    "title": "Sydney Firefighter",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Sy’s Bass (Abstract 1).PNG",
-    "title": "Sy’s Bass (Abstract 1)",
-    "tag": "abstract"
-  },
-  {
-    "file": "./images/Sy’s Bass Finished Abstract painting.PNG",
-    "title": "Sy’s Bass Finished Abstract painting",
-    "tag": "abstract"
-  },
-  {
-    "file": "./images/Taxi Driver No1.PNG",
-    "title": "Taxi Driver No1",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Taxi Driver No2.PNG",
-    "title": "Taxi Driver No2",
-    "tag": "other"
-  },
-  {
-    "file": "./images/The Genius.PNG",
-    "title": "The Genius",
-    "tag": "other"
-  },
-  {
-    "file": "./images/The Joker.PNG",
-    "title": "The Joker",
-    "tag": "other"
-  },
-  {
-    "file": "./images/The Light Horseman.PNG",
-    "title": "The Light Horseman",
-    "tag": "animal"
-  },
-  {
-    "file": "./images/The Painting Within.PNG",
-    "title": "The Painting Within",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Toilet Paper.PNG",
-    "title": "Toilet Paper",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Tolkien Storyteller.PNG",
-    "title": "Tolkien Storyteller",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Touching the Face of God 2.PNG",
-    "title": "Touching the Face of God 2",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Touching the Face of God.PNG",
-    "title": "Touching the Face of God",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Treasure Trove.PNG",
-    "title": "Treasure Trove",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Tribute to Burt Lancaster.PNG",
-    "title": "Tribute to Burt Lancaster",
-    "tag": "tribute"
-  },
-  {
-    "file": "./images/Trippin Out.PNG",
-    "title": "Trippin Out",
-    "tag": "surrealism"
-  },
-  {
-    "file": "./images/Trippy Surreal.PNG",
-    "title": "Trippy Surreal",
-    "tag": "surrealism"
-  },
-  {
-    "file": "./images/Turkish Dolphin Spaghetti.PNG",
-    "title": "Turkish Dolphin Spaghetti",
-    "tag": "animal"
-  },
-  {
-    "file": "./images/Typewriter Lobster.PNG",
-    "title": "Typewriter Lobster",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Val Kilmer.PNG",
-    "title": "Val Kilmer",
-    "tag": "tribute"
-  },
-  {
-    "file": "./images/Vegas.PNG",
-    "title": "Vegas",
-    "tag": "other"
-  },
-  {
-    "file": "./images/WWI Fighter Pilot.PNG",
-    "title": "WWI Fighter Pilot",
-    "tag": "historical"
-  },
-  {
-    "file": "./images/WWII Soldier.PNG",
-    "title": "WWII Soldier",
-    "tag": "historical"
-  },
-  {
-    "file": "./images/Weird Song.PNG",
-    "title": "Weird Song",
-    "tag": "surrealism"
-  },
-  {
-    "file": "./images/Western Cartoons.PNG",
-    "title": "Western Cartoons",
-    "tag": "cartoon"
-  },
-  {
-    "file": "./images/What Happens When it Happens.PNG",
-    "title": "What Happens When it Happens",
-    "tag": "other"
-  },
-  {
-    "file": "./images/Whitley at the Roxy.PNG",
-    "title": "Whitley at the Roxy",
-    "tag": "tribute"
-  },
-  {
-    "file": "./images/‘Golden Spokes’ Abstract.PNG",
-    "title": "‘Golden Spokes’ Abstract",
-    "tag": "abstract"
-  }
+  { "file": "./images/7 Yellow Box’s.PNG", "title": "7 Yellow Box’s", "tag": "abstract" },
+  { "file": "./images/Abstract Painting 95.PNG", "title": "Abstract Painting 95", "tag": "abstract" },
+  { "file": "./images/Abstract Painting 96.PNG", "title": "Abstract Painting 96", "tag": "abstract" },
+  { "file": "./images/Abstract Painting 99.PNG", "title": "Abstract Painting 99", "tag": "abstract" },
+  { "file": "./images/Abstract painting 98.PNG", "title": "Abstract painting 98", "tag": "abstract" },
+  { "file": "./images/Actor Devil.PNG", "title": "Actor Devil", "tag": "portrait" },
+  { "file": "./images/Actors.PNG", "title": "Actors", "tag": "portrait" },
+  { "file": "./images/Antarctic Moon Hub Abstract.PNG", "title": "Antarctic Moon Hub Abstract", "tag": "abstract" },
+  { "file": "./images/Art Gallery Cartoons.PNG", "title": "Art Gallery Cartoons", "tag": "cartoon" },
+  { "file": "./images/Aussie Barfly.PNG", "title": "Aussie Barfly", "tag": "other" },
+  { "file": "./images/Barfly 2.PNG", "title": "Barfly 2", "tag": "other" },
+  { "file": "./images/Batemans Bay Seagull.PNG", "title": "Batemans Bay Seagull", "tag": "landscape" },
+  { "file": "./images/Bateman’s Bay (Sardine Pelican).PNG", "title": "Bateman’s Bay (Sardine Pelican)", "tag": "landscape" },
+  { "file": "./images/Beach Bather.PNG", "title": "Beach Bather", "tag": "landscape" },
+  { "file": "./images/Beef Jerky.PNG", "title": "Beef Jerky", "tag": "other" },
+  { "file": "./images/Ben Don Sherwood painting (Profile Artist).PNG", "title": "Ben Don Sherwood painting (Profile Artist)", "tag": "portrait" },
+  { "file": "./images/Ben on Guitar.PNG", "title": "Ben on Guitar", "tag": "portrait" },
+  { "file": "./images/Bizarre Facade.PNG", "title": "Bizarre Facade", "tag": "abstract" },
+  { "file": "./images/Blind Walk.PNG", "title": "Blind Walk", "tag": "abstract" },
+  { "file": "./images/Bouncing Elephant.PNG", "title": "Bouncing Elephant", "tag": "animal" },
+  { "file": "./images/Broken Down in the Desert.PNG", "title": "Broken Down in the Desert", "tag": "landscape" },
+  { "file": "./images/Cafe Haight Ashbury.PNG", "title": "Cafe Haight Ashbury", "tag": "landscape" },
+  { "file": "./images/Camel Traveller.PNG", "title": "Camel Traveller", "tag": "animal" },
+  { "file": "./images/Carnival Slaughterhouse.PNG", "title": "Carnival Slaughterhouse", "tag": "other" },
+  { "file": "./images/Charcoal Moses(1).PNG", "title": "Charcoal Moses(1)", "tag": "sketch" },
+  { "file": "./images/Chinese Delivery Rabbit in Greece.PNG", "title": "Chinese Delivery Rabbit in Greece", "tag": "animal" },
+  { "file": "./images/Cigarette Cafe.PNG", "title": "Cigarette Cafe", "tag": "other" },
+  { "file": "./images/Civil War Soldier.PNG", "title": "Civil War Soldier", "tag": "historical" },
+  { "file": "./images/Close up of Sy’s Bass Abstract Painting.PNG", "title": "Close up of Sy’s Bass Abstract Painting", "tag": "abstract" },
+  { "file": "./images/Close up of ‘Deep In Eden’ Abstract.PNG", "title": "Close up of ‘Deep In Eden’ Abstract", "tag": "abstract" },
+  { "file": "./images/Close up of ‘Deep In Eden’ Figurative Abstract.PNG", "title": "Close up of ‘Deep In Eden’ Figurative Abstract", "tag": "abstract" },
+  { "file": "./images/Close up of ‘The Winter Hunt’.PNG", "title": "Close up of ‘The Winter Hunt’", "tag": "landscape" },
+  { "file": "./images/Cosmos Abstract that was later called ‘9 Sharks’.PNG", "title": "Cosmos Abstract that was later called ‘9 Sharks’", "tag": "abstract" },
+  { "file": "./images/Counterfeit Illusion.PNG", "title": "Counterfeit Illusion", "tag": "abstract" },
+  { "file": "./images/Crab.PNG", "title": "Crab", "tag": "animal" },
+  { "file": "./images/Crashing Hope.PNG", "title": "Crashing Hope", "tag": "abstract" },
+  { "file": "./images/Croc Pellican.PNG", "title": "Croc Pellican", "tag": "animal" },
+  { "file": "./images/Crocodile Baby Photos.PNG", "title": "Crocodile Baby Photos", "tag": "animal" },
+  { "file": "./images/Daytime Tv Swill Park.PNG", "title": "Daytime Tv Swill Park", "tag": "other" },
+  { "file": "./images/Degas Dancers Tribute.PNG", "title": "Degas Dancers Tribute", "tag": "tribute" },
+  { "file": "./images/Disney Tribute.PNG", "title": "Disney Tribute", "tag": "tribute" },
+  { "file": "./images/Disneys 9 Old Men.PNG", "title": "Disneys 9 Old Men", "tag": "tribute" },
+  { "file": "./images/Dog with Bird.PNG", "title": "Dog with Bird", "tag": "animal" },
+  { "file": "./images/Dragon Guard.PNG", "title": "Dragon Guard", "tag": "other" },
+  { "file": "./images/Dreams.PNG", "title": "Dreams", "tag": "surrealism" },
+  { "file": "./images/Fast Porky.PNG", "title": "Fast Porky", "tag": "cartoon" },
+  { "file": "./images/Figurative Abstract1.PNG", "title": "Figurative Abstract1", "tag": "abstract" },
+  { "file": "./images/Fly Bomber.PNG", "title": "Fly Bomber", "tag": "other" },
+  { "file": "./images/Framed Picasso Tribute.PNG", "title": "Framed Picasso Tribute", "tag": "tribute" }
+,
+  { "file": "./images/Frank Furt.PNG", "title": "Frank Furt", "tag": "other" },
+  { "file": "./images/Freddie.PNG", "title": "Freddie", "tag": "portrait" },
+  { "file": "./images/General.PNG", "title": "General", "tag": "historical" },
+  { "file": "./images/Ghostly Staircase.PNG", "title": "Ghostly Staircase", "tag": "surrealism" },
+  { "file": "./images/Ghosts in Heaven.PNG", "title": "Ghosts in Heaven", "tag": "surrealism" },
+  { "file": "./images/Golfer.PNG", "title": "Golfer", "tag": "portrait" },
+  { "file": "./images/Hallucinogen.PNG", "title": "Hallucinogen", "tag": "surrealism" },
+  { "file": "./images/Hanging one of my Abstracts in the gallery.PNG", "title": "Hanging one of my Abstracts in the gallery", "tag": "abstract" },
+  { "file": "./images/Horse.PNG", "title": "Horse", "tag": "animal" },
+  { "file": "./images/Hounds Balls.PNG", "title": "Hounds Balls", "tag": "animal" },
+  { "file": "./images/Indian Sitar Player.PNG", "title": "Indian Sitar Player", "tag": "portrait" },
+  { "file": "./images/Jack The Ripper Modern Surgeon.PNG", "title": "Jack The Ripper Modern Surgeon", "tag": "historical" },
+  { "file": "./images/Jackson Trip.PNG", "title": "Jackson Trip", "tag": "abstract" },
+  { "file": "./images/James Bond Casino Game Play 2.PNG", "title": "James Bond Casino Game Play 2", "tag": "tribute" },
+  { "file": "./images/James Bond Casino Game Play.PNG", "title": "James Bond Casino Game Play", "tag": "tribute" },
+  { "file": "./images/Jazz Man Warp.PNG", "title": "Jazz Man Warp", "tag": "portrait" },
+  { "file": "./images/John Lennon Milking a cow with a Sheltie.PNG", "title": "John Lennon Milking a cow with a Sheltie", "tag": "portrait" },
+  { "file": "./images/Junk Balloon Windstorm.PNG", "title": "Junk Balloon Windstorm", "tag": "surrealism" },
+  { "file": "./images/Landscape of Bhutan.PNG", "title": "Landscape of Bhutan", "tag": "landscape" },
+  { "file": "./images/Lizard & Platypus.PNG", "title": "Lizard & Platypus", "tag": "animal" },
+  { "file": "./images/Lochness Monster Sightings.PNG", "title": "Lochness Monster Sightings", "tag": "surrealism" },
+  { "file": "./images/Matt Sorum Portrait.PNG", "title": "Matt Sorum Portrait", "tag": "portrait" },
+  { "file": "./images/Memoirs of A Psych-Ward Psychologist.PNG", "title": "Memoirs of A Psych-Ward Psychologist", "tag": "other" },
+  { "file": "./images/Miners Ride.PNG", "title": "Miners Ride", "tag": "landscape" },
+  { "file": "./images/Mist before the Kimberley’s.PNG", "title": "Mist before the Kimberley’s", "tag": "landscape" },
+  { "file": "./images/Monopoly Freak.PNG", "title": "Monopoly Freak", "tag": "other" },
+  { "file": "./images/Mozart Conductor.PNG", "title": "Mozart Conductor", "tag": "portrait" },
+  { "file": "./images/Mushroom Pot.PNG", "title": "Mushroom Pot", "tag": "surrealism" },
+  { "file": "./images/NYE Resolutions.PNG", "title": "NYE Resolutions", "tag": "other" },
+  { "file": "./images/Naughty Cat.PNG", "title": "Naughty Cat", "tag": "animal" },
+  { "file": "./images/Nervous Experiment.PNG", "title": "Nervous Experiment", "tag": "surrealism" },
+  { "file": "./images/Nine Days In Egypt.PNG", "title": "Nine Days In Egypt", "tag": "landscape" },
+  { "file": "./images/Offer Thy Soul to the Fiddler.PNG", "title": "Offer Thy Soul to the Fiddler", "tag": "surrealism" },
+  { "file": "./images/Otter.PNG", "title": "Otter", "tag": "animal" },
+  { "file": "./images/Out of Control Balloon.PNG", "title": "Out of Control Balloon", "tag": "surrealism" },
+  { "file": "./images/PTSD.PNG", "title": "PTSD", "tag": "other" },
+  { "file": "./images/Penguins Delight.PNG", "title": "Penguins Delight", "tag": "animal" },
+  { "file": "./images/Photo of Ben Don Sherwood next to his masterpiece 1.PNG", "title": "Photo of Ben Don Sherwood next to his masterpiece 1", "tag": "portrait" },
+  { "file": "./images/Pizza Man.PNG", "title": "Pizza Man", "tag": "portrait" },
+  { "file": "./images/Pocorn Emu.PNG", "title": "Pocorn Emu", "tag": "animal" },
+  { "file": "./images/Political Assention.PNG", "title": "Political Assention", "tag": "other" },
+  { "file": "./images/Pool Man.PNG", "title": "Pool Man", "tag": "portrait" },
+  { "file": "./images/Porcupine.PNG", "title": "Porcupine", "tag": "animal" },
+  { "file": "./images/Portrait of AWOL Nation Aaron Bruno.PNG", "title": "Portrait of AWOL Nation Aaron Bruno", "tag": "portrait" },
+  { "file": "./images/Portrait of Actor ‘Oliver Platt’.PNG", "title": "Portrait of Actor ‘Oliver Platt’", "tag": "portrait" },
+  { "file": "./images/Portrait of Gary Kemp.PNG", "title": "Portrait of Gary Kemp", "tag": "portrait" },
+  { "file": "./images/Portrait of Paul Williams.PNG", "title": "Portrait of Paul Williams", "tag": "portrait" },
+  { "file": "./images/Portrait of Peter Boyle.PNG", "title": "Portrait of Peter Boyle", "tag": "portrait" },
+  { "file": "./images/Portrait of my Grandfather (Trevor Bowman).PNG", "title": "Portrait of my Grandfather (Trevor Bowman)", "tag": "portrait" },
+  { "file": "./images/Preliminary Sketch of ‘Precarious’.PNG", "title": "Preliminary Sketch of ‘Precarious’", "tag": "sketch" },
+  { "file": "./images/Public Servant Dragon.PNG", "title": "Public Servant Dragon", "tag": "other" },
+  { "file": "./images/Public Servant Nightmare.PNG", "title": "Public Servant Nightmare", "tag": "surrealism" },
+  { "file": "./images/QLD Joirney.PNG", "title": "QLD Joirney", "tag": "landscape" },
+  { "file": "./images/Rabbit Droppings Bell.PNG", "title": "Rabbit Droppings Bell", "tag": "animal" },
+  { "file": "./images/Random Doodlings 4.PNG", "title": "Random Doodlings 4", "tag": "sketch" },
+  { "file": "./images/Random Doodlings.PNG", "title": "Random Doodlings", "tag": "sketch" },
+  { "file": "./images/Retro Art.PNG", "title": "Retro Art", "tag": "other" },
+  { "file": "./images/Robot Sheltie Fruit.PNG", "title": "Robot Sheltie Fruit", "tag": "surrealism" },
+  { "file": "./images/Sankara Stone.PNG", "title": "Sankara Stone", "tag": "other" },
+  { "file": "./images/Santa Monica in the 70’s.PNG", "title": "Santa Monica in the 70’s", "tag": "landscape" },
+  { "file": "./images/Scottish Golfer.PNG", "title": "Scottish Golfer", "tag": "portrait" },
+  { "file": "./images/Scottish Pipes.PNG", "title": "Scottish Pipes", "tag": "portrait" },
+  { "file": "./images/Self Portrait in the Desert.PNG", "title": "Self Portrait in the Desert", "tag": "portrait" }
+,
+  { "file": "./images/Shifting Plates (Abstract).PNG", "title": "Shifting Plates (Abstract)", "tag": "abstract" },
+  { "file": "./images/Skater Hawk.PNG", "title": "Skater Hawk", "tag": "portrait" },
+  { "file": "./images/Sleeping.PNG", "title": "Sleeping", "tag": "other" },
+  { "file": "./images/Snail on a Leaf.PNG", "title": "Snail on a Leaf", "tag": "animal" },
+  { "file": "./images/Sniper.PNG", "title": "Sniper", "tag": "historical" },
+  { "file": "./images/Spaceman in Swamp.PNG", "title": "Spaceman in Swamp", "tag": "surrealism" },
+  { "file": "./images/St John’s In ANZAC Park, Reid (Frosty Morning).PNG", "title": "St John’s In ANZAC Park, Reid (Frosty Morning)", "tag": "landscape" },
+  { "file": "./images/Surreal Painting No 3.PNG", "title": "Surreal Painting No 3", "tag": "surrealism" },
+  { "file": "./images/Sydney Firefighter.PNG", "title": "Sydney Firefighter", "tag": "portrait" },
+  { "file": "./images/Sy’s Bass (Abstract 1).PNG", "title": "Sy’s Bass (Abstract 1)", "tag": "abstract" },
+  { "file": "./images/Sy’s Bass Finished Abstract painting.PNG", "title": "Sy’s Bass Finished Abstract painting", "tag": "abstract" },
+  { "file": "./images/Taxi Driver No1.PNG", "title": "Taxi Driver No1", "tag": "portrait" },
+  { "file": "./images/Taxi Driver No2.PNG", "title": "Taxi Driver No2", "tag": "portrait" },
+  { "file": "./images/The Genius.PNG", "title": "The Genius", "tag": "portrait" },
+  { "file": "./images/The Joker.PNG", "title": "The Joker", "tag": "portrait" },
+  { "file": "./images/The Light Horseman.PNG", "title": "The Light Horseman", "tag": "historical" },
+  { "file": "./images/The Painting Within.PNG", "title": "The Painting Within", "tag": "abstract" },
+  { "file": "./images/Toilet Paper.PNG", "title": "Toilet Paper", "tag": "other" },
+  { "file": "./images/Tolkien Storyteller.PNG", "title": "Tolkien Storyteller", "tag": "portrait" },
+  { "file": "./images/Touching the Face of God 2.PNG", "title": "Touching the Face of God 2", "tag": "surrealism" },
+  { "file": "./images/Touching the Face of God.PNG", "title": "Touching the Face of God", "tag": "surrealism" },
+  { "file": "./images/Treasure Trove.PNG", "title": "Treasure Trove", "tag": "other" },
+  { "file": "./images/Tribute to Burt Lancaster.PNG", "title": "Tribute to Burt Lancaster", "tag": "tribute" },
+  { "file": "./images/Trippin Out.PNG", "title": "Trippin Out", "tag": "surrealism" },
+  { "file": "./images/Trippy Surreal.PNG", "title": "Trippy Surreal", "tag": "surrealism" },
+  { "file": "./images/Turkish Dolphin Spaghetti.PNG", "title": "Turkish Dolphin Spaghetti", "tag": "animal" },
+  { "file": "./images/Typewriter Lobster.PNG", "title": "Typewriter Lobster", "tag": "surrealism" },
+  { "file": "./images/Val Kilmer.PNG", "title": "Val Kilmer", "tag": "portrait" },
+  { "file": "./images/Vegas.PNG", "title": "Vegas", "tag": "landscape" },
+  { "file": "./images/WWI Fighter Pilot.PNG", "title": "WWI Fighter Pilot", "tag": "historical" },
+  { "file": "./images/WWII Soldier.PNG", "title": "WWII Soldier", "tag": "historical" },
+  { "file": "./images/Weird Song.PNG", "title": "Weird Song", "tag": "surrealism" },
+  { "file": "./images/Western Cartoons.PNG", "title": "Western Cartoons", "tag": "cartoon" },
+  { "file": "./images/What Happens When it Happens.PNG", "title": "What Happens When it Happens", "tag": "other" },
+  { "file": "./images/Whitley at the Roxy.PNG", "title": "Whitley at the Roxy", "tag": "tribute" },
+  { "file": "./images/‘Golden Spokes’ Abstract.PNG", "title": "‘Golden Spokes’ Abstract", "tag": "abstract" }
 ]
+
