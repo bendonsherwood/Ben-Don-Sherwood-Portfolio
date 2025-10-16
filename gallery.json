@@ -1,0 +1,61 @@
+[
+  {
+     "title": "Character Concept — The Devil",
+  "src": "images/devil_character_concept.jpg",
+  "thumb": "images/devil_character_concept.jpg",
+  "tags": ["character design", "concept art", "villain"],
+  "year": "2025"
+    ],
+    
+  },
+  {
+    "title": "Storyboard \u2014 Chase Sequence",
+    "src": "images/storyboard_chase.jpg",
+    "thumb": "images/placeholder.svg",
+    "tags": [
+      "storyboard",
+      "action"
+    ],
+    "year": "2023"
+  },
+  {
+    "title": "Color Script \u2014 Sunrise Mood",
+    "src": "images/colorscript_sunrise.jpg",
+    "thumb": "images/placeholder.svg",
+    "tags": [
+      "color script",
+      "lighting"
+    ],
+    "year": "2022"
+  },
+  {
+    "title": "Animation Reel Shot \u2014 Lip Sync",
+    "src": "images/reel_lipsync.mp4",
+    "thumb": "images/placeholder.svg",
+    "tags": [
+      "animation",
+      "lipsync"
+    ],
+    "year": "2025"
+  },
+  {
+    "title": "Environment Concept \u2014 Market Street",
+    "src": "images/environment_market.jpg",
+    "thumb": "images/placeholder.svg",
+    "tags": [
+      "environment",
+      "concept art"
+    ],
+    "year": "2024"
+  },
+  {
+    "title": "Gesture Thumbnails \u2014 Performance Beats",
+    "src": "images/gesture_thumbs.jpg",
+    "thumb": "images/placeholder.svg",
+    "tags": [
+      "gesture",
+      "study"
+    ],
+    "year": "2023"
+  }
+]
