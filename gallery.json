@@ -1,61 +1,30 @@
 [
-  {
-     "title": "Character Concept — The Devil",
-  "src": "images/devil_character_concept.jpg",
-  "thumb": "images/devil_character_concept.jpg",
-  "tags": ["character design", "concept art", "villain"],
-  "year": "2025"
-    ],
-    
-  },
-  {
-    "title": "Storyboard \u2014 Chase Sequence",
-    "src": "images/storyboard_chase.jpg",
-    "thumb": "images/placeholder.svg",
-    "tags": [
-      "storyboard",
-      "action"
-    ],
-    "year": "2023"
-  },
-  {
-    "title": "Color Script \u2014 Sunrise Mood",
-    "src": "images/colorscript_sunrise.jpg",
-    "thumb": "images/placeholder.svg",
-    "tags": [
-      "color script",
-      "lighting"
-    ],
-    "year": "2022"
-  },
-  {
-    "title": "Animation Reel Shot \u2014 Lip Sync",
-    "src": "images/reel_lipsync.mp4",
-    "thumb": "images/placeholder.svg",
-    "tags": [
-      "animation",
-      "lipsync"
-    ],
-    "year": "2025"
-  },
-  {
-    "title": "Environment Concept \u2014 Market Street",
-    "src": "images/environment_market.jpg",
-    "thumb": "images/placeholder.svg",
-    "tags": [
-      "environment",
-      "concept art"
-    ],
-    "year": "2024"
-  },
-  {
-    "title": "Gesture Thumbnails \u2014 Performance Beats",
-    "src": "images/gesture_thumbs.jpg",
-    "thumb": "images/placeholder.svg",
-    "tags": [
-      "gesture",
-      "study"
-    ],
-    "year": "2023"
-  }
-]
+  {"title": "Actor Devil", "src": "images/Actor Devil.PNG", "thumb": "images/Actor Devil.PNG", "tags": ["illustration", "character design"], "year": "2025"},
+  {"title": "Aussie Barfly", "src": "images/Aussie Barfly.PNG", "thumb": "images/Aussie Barfly.PNG", "tags": ["illustration", "humor"], "year": "2025"},
+  {"title": "Beef Jerky", "src": "images/Beef Jerky.PNG", "thumb": "images/Beef Jerky.PNG", "tags": ["illustration"], "year": "2025"},
+  {"title": "Bouncing Elephant", "src": "images/Bouncing Elephant.PNG", "thumb": "images/Bouncing Elephant.PNG", "tags": ["character design"], "year": "2025"},
+  {"title": "Chinese Delivery Rabbit in Greece", "src": "images/Chinese Delivery Rabbit in Greece.PNG", "thumb": "images/Chinese Delivery Rabbit in Greece.PNG", "tags": ["concept art", "character design"], "year": "2025"},
+  {"title": "Cigarette Cafe", "src": "images/Cigarette Cafe.PNG", "thumb": "images/Cigarette Cafe.PNG", "tags": ["illustration"], "year": "2025"},
+  {"title": "Civil War Soldier", "src": "images/Civil War Soldier.PNG", "thumb": "images/Civil War Soldier.PNG", "tags": ["illustration"], "year": "2025"},
+  {"title": "Counterfeit Illusion", "src": "images/Counterfeit Illusion.PNG", "thumb": "images/Counterfeit Illusion.PNG", "tags": ["concept art"], "year": "2025"},
+  {"title": "Croc Pellican", "src": "images/Croc Pellican.PNG", "thumb": "images/Croc Pellican.PNG", "tags": ["character design"], "year": "2025"},
+  {"title": "Crocodile Baby Photos", "src": "images/Crocodile Baby Photos.PNG", "thumb": "images/Crocodile Baby Photos.PNG", "tags": ["humor", "illustration"], "year": "2025"},
+  {"title": "Disney Tribute", "src": "images/Disney Tribute.PNG", "thumb": "images/Disney Tribute.PNG", "tags": ["tribute", "animation"], "year": "2025"},
+  {"title": "Disneys 9 Old Men", "src": "images/Disneys 9 Old Men.PNG", "thumb": "images/Disneys 9 Old Men.PNG", "tags": ["tribute", "animation"], "year": "2025"},
+  {"title": "Dog with Bird", "src": "images/Dog with Bird.PNG", "thumb": "images/Dog with Bird.PNG", "tags": ["character design"], "year": "2025"},
+  {"title": "Dragon Guard", "src": "images/Dragon Guard.PNG", "thumb": "images/Dragon Guard.PNG", "tags": ["fantasy", "character design"], "year": "2025"},
+  {"title": "Fast Porky", "src": "images/Fast Porky.PNG", "thumb": "images/Fast Porky.PNG", "tags": ["animation", "character design"], "year": "2025"},
+  {"title": "Fly Bomber", "src": "images/Fly Bomber.PNG", "thumb": "images/Fly Bomber.PNG", "tags": ["illustration"], "year": "2025"},
+  {"title": "Horse", "src": "images/Horse.PNG", "thumb": "images/Horse.PNG", "tags": ["character sketch"], "year": "2025"},
+  {"title": "Indian Sitar Player", "src": "images/Indian Sitar Player.PNG", "thumb": "images/Indian Sitar Player.PNG", "tags": ["illustration"], "year": "2025"},
+  {"title": "Lochness Monster Sightings", "src": "images/Lochness Monster Sightings.PNG", "thumb": "images/Lochness Monster Sightings.PNG", "tags": ["humor", "illustration"], "year": "2025"},
+  {"title": "Matt Sorum Portrait", "src": "images/Matt Sorum Portrait.PNG", "thumb": "images/Matt Sorum Portrait.PNG", "tags": ["portrait"], "year": "2025"},
+  {"title": "Mozart Conductor", "src": "images/Mozart Conductor.PNG", "thumb": "images/Mozart Conductor.PNG", "tags": ["illustration", "music"], "year": "2025"},
+  {"title": "Naughty Cat", "src": "images/Naughty Cat.PNG", "thumb": "images/Naughty Cat.PNG", "tags": ["humor"], "year": "2025"},
+  {"title": "NYE Resolutions", "src": "images/NYE Resolutions.PNG", "thumb": "images/NYE Resolutions.PNG", "tags": ["illustration"], "year": "2025"},
+  {"title": "Otter", "src": "images/Otter.PNG", "thumb": "images/Otter.PNG", "tags": ["animal", "illustration"], "year": "2025"},
+  {"title": "Out of Control Balloon", "src": "images/Out of Control Balloon.PNG", "thumb": "images/Out of Control Balloon.PNG", "tags": ["illustration"], "year": "2025"},
+  {"title": "Pizza Man", "src": "images/Pizza Man.PNG", "thumb": "images/Pizza Man.PNG", "tags": ["illustration"], "year": "2025"},
+  {"title": "Pocorn Emu", "src": "images/Pocorn Emu.PNG", "thumb": "images/Pocorn Emu.PNG", "tags": ["character design"], "year": "2025"},
+  {"title": "Pool Man", "src": "images/Pool Man.PNG", "thumb": "images/Pool Man.PNG", "tags": ["illustration"], "year": "2025"},
+  {"title": "Porcupine", "src": "images
