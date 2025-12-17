@@ -1,3 +1,69 @@
+[
+  {
+    "title": "Concept Auto",
+    "src": "images/concept auto.jpg",
+    "thumb": "images/concept auto.jpg",
+    "tags": ["concept-art", "illustration", "vehicle"]
+  },
+  {
+    "title": "3D Character Models",
+    "src": "images/3D Character Models.jpg",
+    "thumb": "images/3D Character Models.jpg",
+    "tags": ["character-design", "3d", "modeling"]
+  },
+  {
+    "title": "Auto Concepts",
+    "src": "images/Auto Concepts.jpg",
+    "thumb": "images/Auto Concepts.jpg",
+    "tags": ["concept-art", "vehicle", "illustration"]
+  },
+  {
+    "title": "Cartoon Fire",
+    "src": "images/Cartoon Fire.jpg",
+    "thumb": "images/Cartoon Fire.jpg",
+    "tags": ["cartoon", "illustration", "humor"]
+  },
+  {
+    "title": "Cartoon Illustration",
+    "src": "images/Cartoon Illustration.jpg",
+    "thumb": "images/Cartoon Illustration.jpg",
+    "tags": ["cartoon", "illustration"]
+  },
+  {
+    "title": "Character Concepts Sequence",
+    "src": "images/Character Concepts Sequence.jpg",
+    "thumb": "images/Character Concepts Sequence.jpg",
+    "tags": ["character-design", "concept-art"]
+  },
+  {
+    "title": "Character Reference Concepts",
+    "src": "images/Character Reference Concepts.jpg",
+    "thumb": "images/Character Reference Concepts.jpg",
+    "tags": ["character-design", "reference"]
+  },
+  {
+    "title": "Character Set Concepts",
+    "src": "images/Character Set Concepts.jpg",
+    "thumb": "images/Character Set Concepts.jpg",
+    "tags": ["character-design", "concept-art"]
+  },
+  {
+    "title": "Character Set Environments",
+    "src": "images/Character Set Environments.jpg",
+    "thumb": "images/Character Set Environments.jpg",
+    "tags": ["environment", "concept-art"]
+  },
+  {
+    "title": "Concept Cartoon",
+    "src": "images/concept cartoon.jpg",
+    "thumb": "images/concept cartoon.jpg",
+    "tags": ["cartoon", "concept-art"]
+  }
+]
+
+
+
+
 [{"title":"Character Beer Labels ","src":"images/Character Beer Labels.jpg","thumb":"images/Character Beer Labels.jpg","tags":["illustration","character-design"]},
 {"title":"Actor Devil","src":"images/Actor Devil.PNG","thumb":"images/Actor Devil.PNG","tags":["illustration","character-design"]},
 {"title":"Actors","src":"images/Actors.PNG","thumb":"images/Actors.PNG","tags":["illustration"]},
